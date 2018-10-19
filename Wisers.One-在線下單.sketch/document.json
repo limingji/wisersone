@@ -1,0 +1,3726 @@
+{
+  "layerStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "65ABDC1D-EDD6-4481-A797-65D0FADF0838",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.93333333333333335,
+                "green" : 0.20000000000000009
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "blue-60"
+      },
+      {
+        "do_objectID" : "86665494-A98A-47D1-944B-C1019A4BDDEF",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "innerShadows" : [
+            {
+              "_class" : "innerShadow",
+              "color" : {
+                "red" : 0.82104967786120142,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.87818877551020413,
+                "green" : 0.83533445227345227
+              },
+              "offsetY" : -1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 0,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "innerShadow",
+              "color" : {
+                "red" : 0.86413002682577533,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.901812287414966,
+                "green" : 0.87355059197307316
+              },
+              "offsetY" : 0,
+              "offsetX" : 1,
+              "spread" : 0,
+              "blurRadius" : 0,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "innerShadow",
+              "color" : {
+                "red" : 0.86413002682577533,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.901812287414966,
+                "green" : 0.87355059197307316
+              },
+              "offsetY" : 0,
+              "offsetX" : -1,
+              "spread" : 0,
+              "blurRadius" : 0,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "innerShadow",
+              "color" : {
+                "red" : 0.91841764338015042,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94440901360544216,
+                "green" : 0.92491548593647344
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 0,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 0,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Panel"
+      },
+      {
+        "do_objectID" : "F2B68CA7-5997-4074-A159-1309BA5270DC",
+        "value" : {
+          "_class" : "style",
+          "miterLimit" : 10,
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "…elevation-02dp"
+      },
+      {
+        "do_objectID" : "2C1E4C14-3DBC-45B6-A613-536A12598766",
+        "value" : {
+          "_class" : "style",
+          "miterLimit" : 10,
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "elevation-02dp"
+      },
+      {
+        "do_objectID" : "3BA3648A-146B-44A8-B21D-E7D178B981F7",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/black"
+      },
+      {
+        "do_objectID" : "B23383CA-311C-4F50-822B-AB29A6EA0AA0",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/white"
+      },
+      {
+        "do_objectID" : "3F7F280B-82E6-433A-82AE-CE086B89D6E9",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.92941176470588238,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.95294117647058818,
+                "green" : 0.93725490196078431
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-1"
+      },
+      {
+        "do_objectID" : "48008EB6-5313-44DE-833B-922214BB0357",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.69803921568627447,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.78431372549019607,
+                "green" : 0.72549019607843135
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-2"
+      },
+      {
+        "do_objectID" : "ABEC4A2D-CE20-4812-B4DA-EFF2704886A2",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.46274509803921571,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.61960784313725492,
+                "green" : 0.50980392156862742
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-3"
+      },
+      {
+        "do_objectID" : "B03DD753-24F5-4309-B6C0-9698A4F2BC39",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.40784313725490201,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.57647058823529407,
+                "green" : 0.45882352941176469
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-4"
+      },
+      {
+        "do_objectID" : "526E4E43-E6E3-4660-B387-A36E45E19AFC",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.36470588235294121,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.51764705882352935,
+                "green" : 0.41176470588235298
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-5"
+      },
+      {
+        "do_objectID" : "42885256-D714-4688-9FA2-B4A786482E62",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.32156862745098042,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.45882352941176469,
+                "green" : 0.36470588235294121
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-6"
+      },
+      {
+        "do_objectID" : "86CD91DF-317C-48E4-99F3-F459E65A78B0",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.28235294117647058,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.40000000000000002,
+                "green" : 0.31764705882352939
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-7"
+      },
+      {
+        "do_objectID" : "17C66112-B33D-4267-9633-7DA425D52603",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.20000000000000001,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.28235294117647058,
+                "green" : 0.22352941176470589
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-8"
+      },
+      {
+        "do_objectID" : "FD90E6BD-2F45-488B-A8A6-815C4C1D551B",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/grey\/grey-9"
+      },
+      {
+        "do_objectID" : "6D4D9254-C103-4514-A78B-86B0F4FA9B08",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.90196078431372551,
+                "green" : 0.47843137254901968
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-5"
+      },
+      {
+        "do_objectID" : "25FAD0C0-29D2-43EC-8C23-803B24841226",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.50196078431372548,
+                "green" : 0.26666666666666672
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-8"
+      },
+      {
+        "do_objectID" : "DA807121-5BAA-4D5A-AB2E-E4F156E414D1",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.30196078431372553,
+                "green" : 0.16078431372549021
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/blue\/blue-9"
+      },
+      {
+        "do_objectID" : "7784EBFD-298E-4773-B3F8-B5EF87CF7DB9",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.93333333333333335,
+                "green" : 0.20000000000000009
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/indigo\/indigo-5"
+      },
+      {
+        "do_objectID" : "35E8DD6F-EB63-46B5-8BD4-783DB86728C8",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.66666666666666696,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/violet\/violet-5"
+      },
+      {
+        "do_objectID" : "341CD8C3-7370-4A71-AA69-A81285888399",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.92549019607843142,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.57254901960784321,
+                "green" : 0.039215686274509803
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/pink\/pink-5"
+      },
+      {
+        "do_objectID" : "8DF336A9-202D-4151-96F2-065336DC3A28",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.95686274509803915,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.21176470588235291,
+                "green" : 0.21176470588235291
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/red\/red-5"
+      },
+      {
+        "do_objectID" : "A5583F20-162C-4FF1-B013-E04B551B5BDD",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.66274509803921566
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/orange\/orange-5"
+      },
+      {
+        "do_objectID" : "7FD12321-2C7B-46E9-B77B-3D37EBF28D39",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.99215686274509807,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.20784313725490189,
+                "green" : 0.84705882352941175
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/yellow\/yellow-5"
+      },
+      {
+        "do_objectID" : "72C7117E-BD14-4422-A448-5AD2ED2E13B2",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.75294117647058834,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0.90588235294117647
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/lime\/lime-5"
+      },
+      {
+        "do_objectID" : "12D9EA2B-0E5D-4203-8151-3A49F92CB11C",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.31372549019607843,
+                "green" : 0.78431372549019607
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/green\/green-5"
+      },
+      {
+        "do_objectID" : "0FA09F9E-FA5B-468B-A4E7-4C7F50786D8F",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.52941176470588225,
+                "green" : 0.79607843137254897
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/teal\/teal-5"
+      },
+      {
+        "do_objectID" : "C6776966-5007-4978-87FE-22A507525BC0",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.043137254901960777,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.8784313725490196,
+                "green" : 0.8784313725490196
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/cyan\/cyan-5"
+      }
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+      {
+        "red" : 0.48235294117647071,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 1,
+        "green" : 0.75686274509803919
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 1,
+        "green" : 0.53333333333333321
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.90200000000000002,
+        "green" : 0.47799999999999998
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.80392156862745101,
+        "green" : 0.42352941176470588
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.70196078431372544,
+        "green" : 0.37254901960784331
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.50196078431372548,
+        "green" : 0.26666666666666672
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.6470588235294118,
+        "green" : 0.21568627450980429
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.93333333333333335,
+        "green" : 0.20000000000000009
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.83529411764705885,
+        "green" : 0.1803921568627451
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.53333333333333333,
+        "green" : 0.1137254901960785
+      },
+      {
+        "red" : 0.039215686274509748,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.78431372549019607,
+        "green" : 0.78431372549019607
+      },
+      {
+        "red" : 0.035294117647058788,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.68627450980392157,
+        "green" : 0.68627450980392157
+      },
+      {
+        "red" : 0,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.52941176470588225,
+        "green" : 0.79607843137254897
+      },
+      {
+        "red" : 0.95686274509803915,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.21176470588235291,
+        "green" : 0.21176470588235291
+      },
+      {
+        "red" : 0.60000000000000031,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.90196078431372551,
+        "green" : 0
+      },
+      {
+        "red" : 0.97254901960784312,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.050980392156862807,
+        "green" : 0.85098039215686272
+      },
+      {
+        "red" : 0.1176470588235294,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.1647058823529412,
+        "green" : 0.13333333333333339
+      },
+      {
+        "red" : 0.32156862745098042,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.45882352941176469,
+        "green" : 0.36470588235294121
+      },
+      {
+        "red" : 0.46274509803921571,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.61960784313725492,
+        "green" : 0.50980392156862742
+      },
+      {
+        "red" : 0.69803921568627447,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.78431372549019607,
+        "green" : 0.72549019607843135
+      },
+      {
+        "red" : 0.92941176470588238,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.95294117647058818,
+        "green" : 0.93725490196078431
+      }
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/169F3C6F-478E-411D-B743-59A283CE95EE"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/0692C017-F334-47CC-85F5-F35D31431D3B"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/E12E9F86-774C-4540-B3B4-35EDE3F9BB2A"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/CE5C44B0-556D-48CC-95A1-606BF47D7AD2"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/71DD8172-B1C0-48A3-A7BA-3969D9367ED8"
+    }
+  ],
+  "foreignSymbols" : [
+
+  ],
+  "currentPageIndex" : 4,
+  "_class" : "document",
+  "foreignLayerStyles" : [
+    {
+      "libraryID" : "D7906682-B700-4585-B11B-31A2A0FEFA65",
+      "sourceLibraryName" : "UI Library",
+      "symbolPrivate" : false,
+      "_class" : "MSImmutableForeignLayerStyle",
+      "localSharedStyle" : {
+        "do_objectID" : "842D2967-32ED-46BE-AEF5-9AC4C015E120",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Color\/black"
+      },
+      "remoteStyleID" : "2C7D9FBC-667F-41EB-AC85-261CB02C664B"
+    }
+  ],
+  "colorSpace" : 1,
+  "layerTextStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "1E5756BA-B72A-40D4-9CBC-C7DF1A5617EB",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 1,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "alignment" : 2,
+                "minimumLineHeight" : 14,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 14
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "PingFangTC-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "white 14"
+      },
+      {
+        "do_objectID" : "FFFD6175-1EB3-4E2E-9717-47B1C7DEF4EB",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 1,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "alignment" : 2,
+                "minimumLineHeight" : 12,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 12
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "PingFangTC-Regular",
+                  "size" : 10
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "black 12"
+      },
+      {
+        "do_objectID" : "3E8770D9-70A9-48E4-BE2A-ADFC59573C48",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 1,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "alignment" : 2,
+                "minimumLineHeight" : 12,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 12
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "PingFangTC-Regular",
+                  "size" : 10
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "white 10"
+      },
+      {
+        "do_objectID" : "10842F29-A64E-4A3E-8E57-1B848F72BCF5",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "alignment" : 1,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "HelveticaNeue-Bold",
+                  "size" : 20
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Symbol Organizer\/Group Title"
+      },
+      {
+        "do_objectID" : "4D791E88-BDB1-42A3-AA34-0D5B29FB6512",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "PingFangTC-Regular",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.49916097529999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.58205782309999998,
+                "green" : 0.51988518719999999
+              },
+              "kerning" : -0.20000000000000001,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "caption"
+      },
+      {
+        "do_objectID" : "7C6C4548-1542-4C67-8797-CEB438840AC2",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "PingFangTC-Regular",
+                  "size" : 13
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.034144083659999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.15290178569999999,
+                "green" : 0.059900467069999998
+              },
+              "kerning" : -0.21666669999999999,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "body"
+      },
+      {
+        "do_objectID" : "C357619D-5D77-461B-A723-53B57CD88DB9",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "PingFangTC-Semibold",
+                  "size" : 15
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.034144083659999998,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.15290178569999999,
+                "green" : 0.059900467069999998
+              },
+              "kerning" : -0.23076920000000001,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline"
+      },
+      {
+        "do_objectID" : "931B988A-8ED1-40DF-A26E-C2EB4911E3D7",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.32156862745098042,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.45882352941176469,
+                "green" : 0.36470588235294121
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "filter_grey_12"
+      },
+      {
+        "do_objectID" : "F29022CC-1EC9-4C45-A357-5275C82C6664",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.1176470588235294,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.1647058823529412,
+                "green" : 0.13333333333333339
+              },
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "maximumLineHeight" : 24
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "title_black_18"
+      },
+      {
+        "do_objectID" : "00B1238E-E18B-4FB9-A92B-394CF51FE52D",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 15
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.32156862745098042,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.45882352941176469,
+                "green" : 0.36470588235294121
+              },
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "nav_grey_15"
+      },
+      {
+        "do_objectID" : "63ABC3CF-DC72-453D-A136-62AD1D8F47E0",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.18823529411764711,
+                "green" : 0.14509803921568629
+              },
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "category_black_12"
+      },
+      {
+        "do_objectID" : "4B20A92E-D8BB-4E88-ABEC-7A91F3DEEF20",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "alignment" : 1,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "filter_white_12"
+      },
+      {
+        "do_objectID" : "EFF3F1E5-D433-43DA-8A65-A50AD6C4C410",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "MicrosoftYaHei-Bold",
+                  "size" : 15
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.18823529411764711,
+                "green" : 0.14509803921568629
+              },
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "_class" : "paragraphStyle",
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "allowsDefaultTighteningForTruncation" : 0,
+                "baseWritingDirection" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "nav_black_15"
+      },
+      {
+        "do_objectID" : "BD33688B-3A11-4B87-962F-AF8288821022",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 67.199996948242188,
+                "maximumLineHeight" : 67.199996948242188
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 48
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B1"
+      },
+      {
+        "do_objectID" : "3774B9B5-13F0-43BD-B8BD-B5F458816FB4",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 50.400001525878913,
+                "maximumLineHeight" : 50.400001525878913
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B2"
+      },
+      {
+        "do_objectID" : "5F9BCFD5-95FB-486D-8899-FC696262154F",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 33.599998474121087,
+                "maximumLineHeight" : 33.599998474121087
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B3"
+      },
+      {
+        "do_objectID" : "2FB10763-B080-4028-B1A6-0CDC83D31B87",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.20000076293945,
+                "maximumLineHeight" : 25.20000076293945
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Big Text\/B4"
+      },
+      {
+        "do_objectID" : "F3B3A253-E4A8-4158-B6BB-0E52BC69C4D2",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 50.400001525878913,
+                "maximumLineHeight" : 50.400001525878913
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 36
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H1"
+      },
+      {
+        "do_objectID" : "EAA29906-D121-49CF-877F-F6559EECCD7C",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 39.200000762939453,
+                "maximumLineHeight" : 39.200000762939453
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 28
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H2"
+      },
+      {
+        "do_objectID" : "4D8CA164-51D4-4B19-90B4-FF9A1CE08B27",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 33.599998474121087,
+                "maximumLineHeight" : 33.599998474121087
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H3"
+      },
+      {
+        "do_objectID" : "146316C3-5756-4425-B782-CEDCF1D6DEA8",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.20000076293945,
+                "maximumLineHeight" : 25.20000076293945
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 18
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H4"
+      },
+      {
+        "do_objectID" : "AA29C4BB-BB5B-4983-A35D-F0427ACC9B9C",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 22.39999961853027,
+                "maximumLineHeight" : 22.39999961853027
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H5"
+      },
+      {
+        "do_objectID" : "299C9A09-9A3E-4351-994E-AD8733C0DF98",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 19.60000038146973,
+                "maximumLineHeight" : 19.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Bold",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Headline\/H6"
+      },
+      {
+        "do_objectID" : "962DE1B1-C43D-42A7-BF58-BE51AF6AD95B",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 25.60000038146973,
+                "maximumLineHeight" : 25.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Article-Text"
+      },
+      {
+        "do_objectID" : "126F882C-F8DC-4103-BAF0-E897F7A32D29",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 19.60000038146973,
+                "maximumLineHeight" : 19.60000038146973
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body-Text"
+      },
+      {
+        "do_objectID" : "01C00F54-B80C-49B4-AA43-3C6F51370732",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 15.39999961853027,
+                "maximumLineHeight" : 15.39999961853027
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 11
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Chart annotation"
+      },
+      {
+        "do_objectID" : "B02AEF6D-455D-477B-AAE6-D6F084B79A70",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "paragraphStyle" : {
+                "_class" : "paragraphStyle",
+                "allowsDefaultTighteningForTruncation" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003,
+                "baseWritingDirection" : 0,
+                "alignment" : 0,
+                "minimumLineHeight" : 16.79999923706055,
+                "maximumLineHeight" : 16.79999923706055
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "Roboto-Regular",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0,
+                "green" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Metadata"
+      }
+    ],
+    "_class" : "sharedTextStyleContainer"
+  },
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "E233A296-1058-4F4D-A469-2ED4C2E05A70",
+  "foreignTextStyles" : [
+
+  ],
+  "userInfo" : {
+    "com.invisionlabs.sync" : {
+      "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo" : {
+      "storage" : {
+        "skipped" : [
+          "8B47BCE9-FA84-4BBF-BC0D-E9C5313887CD",
+          "E787A2EF-3D46-40C2-9F22-5CD85876776A",
+          "52082660-2952-4D8D-B64F-7469F10B09F7",
+          "878DB879-695D-4E3C-8898-F965C93A0BA6",
+          "327FFA81-6350-4BE2-B411-D78D57F06FCE",
+          "B79A789C-067E-4CF5-9D05-0CE322AEA6F1",
+          "61E6E141-E551-4A4B-857F-CD16F8D64C77",
+          "E3A0CDF2-5FD2-4E18-BC41-A73552624E75",
+          "527A56B9-3031-4AD4-9B34-6F84A9F5A093",
+          "0E765D6F-AD7D-4A81-8F36-C6DEAD23DB3A",
+          "BA870FAF-B2D5-42FE-AFC6-73847E0F5907",
+          "CF816B39-AD37-4C07-A3CC-CF8A50F634A2",
+          "CEE16A60-8CEC-4BA6-BEEB-898911674F20",
+          "8924A5B0-F218-45EF-87A1-0AB31EB0BE4D",
+          "A8F3EADB-1C7B-4E0A-A8DC-E4E68403A363",
+          "C8145CA7-79E2-49C6-9C9F-72722731B3A8",
+          "7DEBBF50-DC19-468A-8989-F1C1A470E262",
+          "D7A71D78-7697-4FE0-AEF8-8FE86268A010",
+          "E37E53D1-D6DD-4284-9451-DDE4119F4FFE",
+          "32A1D448-7A44-40C0-975C-CC1A72338E70",
+          "82F3EDBA-7739-4164-990B-4CD95F630C73",
+          "9B04E1B6-8C4B-44AA-9020-84D83918BE52",
+          "C173B55A-BA57-4832-8357-82385BFD7D3B",
+          "C410575B-9F4F-4CA8-B2B1-533ED80DEFF2",
+          "2B9AA454-A8AB-4062-8AAF-0858DBA821C0",
+          "934FFDE2-2138-461D-BAB6-6928A61553D8",
+          "E4E891EF-E9A3-4989-88AD-EEBEACF56E01",
+          "408B559E-249D-4BBF-B882-32ECD4C21D0F",
+          "8943C83C-8C73-46E6-BE52-181AB7D49557",
+          "261623EA-12D3-4EB7-B1A4-A97D79FB9335",
+          "50AC0737-E0EB-495A-B62D-D8F7301C7AA3",
+          "433D1C97-0A0A-43B2-B6E1-7B355B2F6DC0",
+          "C1299985-24B6-456E-B692-708F8BBE6776",
+          "F0F83C6B-8E3B-4D5F-BF9D-7DB2EF074612",
+          "837ECBBA-75C3-492E-8C97-B49373E009C0",
+          "00AD52DB-BD16-44E7-B521-C2C0A01F5EB7",
+          "8F35BBC3-9798-42FB-9248-D802F9E02CBA",
+          "2A243D5F-6FA4-4B52-B0E3-E619F1F64A6E",
+          "558BB6F5-5BB7-4F40-B016-A40E17B3E522",
+          "28E5C7A2-7E4C-417B-88CF-63BFDEE77CB9",
+          "E72299B4-2091-4394-92D4-C2071815AB5E",
+          "104CD00E-6919-4BBF-9EB6-A9992FBCBAE6",
+          "B6018633-9B39-4D42-8C42-1815EE530325",
+          "CA885AB6-FDE5-4E97-8E5C-1779EC34E80F",
+          "3CDF26B1-65F7-4A90-9E5C-A82268CA2A15",
+          "17A7A499-8272-4F98-B050-8A199482360A",
+          "40629861-AE76-462A-BF49-5E58B5D59167",
+          "860AB0CF-1EA6-4AC4-A8B1-EB0F5E0925D7",
+          "977DA0BE-2F0C-4B90-B799-0F25F7D3D5B9",
+          "FCE42AA8-F363-49F0-8F8D-18B6CEAE6613",
+          "E9D929A1-C528-4580-B0DC-5389AB0E0F3F",
+          "BDCE527E-6D7A-4A40-84CB-28D00B8E87E5",
+          "E9A4603F-5B95-44D9-AFA0-B09C1BB9B96B",
+          "BC53A11A-9329-4B71-8FE5-1E5BDC031D13",
+          "F24E59BC-2DE3-4FFD-8910-5E45B7B2B803",
+          "6458DCB9-877C-45BF-BEE1-03D04B275983",
+          "AE56D010-F945-4A0B-BBA2-7130438DC852",
+          "0D86D07E-1AA6-4842-8D03-941B7211BAED",
+          "3C706D99-BCA6-41E6-953B-BC1057FB7F27",
+          "5FCA96A8-715C-4B89-9718-EB77BB167BBF",
+          "AB0B8108-9094-4839-A607-18A31956A103",
+          "43DE23BF-2422-43BF-8B5A-153AEC3EEF10",
+          "1B19E968-A5BA-48D9-9BDA-E2C4ED5F9E7D",
+          "AAC36528-A7FB-4BEB-AAF9-02CA4C4122DB",
+          "981A715B-529F-4033-B206-3AAD6A2E0D54",
+          "E468079F-1207-437C-B9EE-C2DD1DFF7C28",
+          "CBB2926A-91E8-4ECA-AA2D-9E299B7DD6AA",
+          "AC17D75F-0F14-4BDE-AA31-4E23960A7F61",
+          "0A62CCF3-DF41-4623-8827-20DC242C8C2E",
+          "55FA5709-D90E-4710-8825-5316C87B40B0",
+          "2F8E0CA5-3038-4C02-9986-A4CF920176F8",
+          "B55FD08E-6498-4F84-BFB1-769E5D8E4D51",
+          "B7506261-AABF-40DE-A215-ECCD6170BD6E",
+          "70486DC9-9A18-47EF-B2E1-3C599743E4EB",
+          "5D2E7180-7F96-48E0-A1DE-FC9BFB2A93A5",
+          "C5B1B3E6-D6E9-4302-A495-CD7B8EB9C98D",
+          "9CDB22BD-084E-4DA7-BAB9-F267ED42378F",
+          "7E5D832A-2266-45AB-B374-0F84858C747D",
+          "AEBA076C-6783-43D5-9549-4BFC4942C4F2",
+          "A65895DF-CEFD-4660-8555-E194D1873CA1",
+          "B73D2F1B-6771-4EE2-9FD1-273AC45F7138",
+          "78EFA150-31C2-4EAC-8A64-528ED59338E5",
+          "194AC9F2-DC85-4330-8F71-87139F69A608",
+          "83EF90BB-D2B5-41B2-8E76-BE548DA765A9",
+          "741D403C-AEE0-4766-9134-819463513563",
+          "DED896D1-1D5D-4D9A-99EF-F6BE2321CCE2",
+          "23DC47FA-A6D2-49F6-9276-7CCB066897DA",
+          "DA4D166B-BEA5-40CA-A26D-9C6F19828371",
+          "AB281318-DD60-4A60-B98B-81326D490492",
+          "353B6DC0-1546-4F7D-B263-C76F07CE3926",
+          "951DF0D3-7E3B-4374-8333-5850264C328B",
+          "32B6CC7F-CDE6-421F-AFBD-57FB18BB7712",
+          "7FFB099A-4C71-422E-A9A3-0D433057DBFC",
+          "EC1810BB-1485-4FDC-B365-F45D8C8C4911",
+          "948FC6E3-720C-421A-8A03-83180833094A",
+          "4B3A1C9B-E3A0-44B2-923D-9E324A5B6955",
+          "8316BBD9-C5A4-4819-BFD6-272E92D6BD64",
+          "4701ACD1-1C6B-45A8-B586-D7ADC50B433D",
+          "E5501C53-54C9-4399-887E-52D16BBD9E9C",
+          "D19F2F08-5CE0-4C8E-A87C-448B4F67C669",
+          "6939689E-5FDB-4920-8A37-9536A723C736",
+          "0C48FBC6-7047-4014-A430-37CD64AA19C7",
+          "F4A58736-97E0-46C7-A85D-AB484F13FF45",
+          "8A68DCEB-5CDB-4C1F-84D7-D35F9A9D023F",
+          "DE518E80-35F6-4FDA-BD61-2D0CD0FE551A",
+          "4223DD86-041F-410F-883D-4B83C841A7C3",
+          "9BA9AD3D-A857-40AE-81B4-0DE1AD1B7DDC",
+          "72579ACD-9B39-41E8-A9B3-2713A5DD66ED",
+          "B3C81A3B-489B-4D48-BE84-2943728DD7D7",
+          "7D9EEE48-9EA1-4BB8-86F2-55DBE6C11171",
+          "E3F6049D-7646-4546-A502-08A08710A114",
+          "107027F3-48FB-403C-849B-DB73AEB2418B",
+          "756E51FB-BF60-4FB9-A852-72A46D819E4D",
+          "F485D869-2762-490E-9733-281DBD3E8CF1",
+          "D470C912-E73C-4F5C-A640-E04E8ADEB0F7",
+          "FF56974D-ABA6-4A39-BC52-C9FA802AC99D",
+          "E581C864-E215-4965-9669-2A0624B422D4",
+          "6F80B67C-1F17-49A3-8BDA-8319D9B308E0",
+          "EADAEAA3-9A62-470F-8B07-91C9297D8F7E",
+          "DF39AA79-C91C-4236-B678-C62413BDD792",
+          "E01C91D9-6200-46A7-8232-E73195E772AD",
+          "3B11161F-0C3C-4402-AD41-C45013518255",
+          "F81DA7A4-F44D-459A-84DA-38693BD64A7F",
+          "0A84113B-BB69-4DF5-8C98-8A4F2CCC2B99",
+          "2207EE3F-04FA-4FF9-9FC2-510B799D65FA",
+          "22EE1802-27CA-4008-96CD-EF1C64A47BF1",
+          "8FFEB519-BF3C-493F-B011-E5A60532DD4D",
+          "C3F159F4-ABB5-4077-900D-ED58D3191749",
+          "54EBDCCE-6E77-4CF7-B532-7EB780EF2C39",
+          "25A448E1-AFA1-49CE-A26F-336E8C179AEF",
+          "36BB1954-C7C2-4C06-8BA8-907B06690019",
+          "1D440856-1412-40AC-965B-C4DE22BD215A",
+          "813DFAE1-47E6-4E08-9910-CA7B2E18A8EC",
+          "53C41322-9F4B-4D48-8B8A-C58F48AB85B6",
+          "0586BDEA-C807-47F3-BFEA-744C868931B5",
+          "870D3170-0A73-4DB2-9CD0-EAAF6D9344DD",
+          "8984334F-9897-4857-8E96-B85F21A32AAA",
+          "9E541164-0B13-483D-AB14-34324FA78209",
+          "0E62C519-62EB-4B7C-B59B-03A9B3E1E477",
+          "A153AF3B-EB99-48E4-B2D1-29C81E7231B4",
+          "7471CF23-D07E-4663-B319-856BC685BD50",
+          "07668391-D63A-46E3-9AB3-D68C4ACF51DC",
+          "6E3A8B07-50B7-49EE-AC3E-BD40D09EC070",
+          "6CB72C93-E1DB-476C-A972-45FBDEADD67E",
+          "B3C6773A-08B8-4327-9E10-CFE89E375B77",
+          "59C3CD3B-8EF7-4EE0-AA65-9D3D13F32E41",
+          "8690BEDC-BA4E-40CB-9760-39AF6903A97A",
+          "723819F0-F394-44C4-99B1-FC5E3BF2C8DB",
+          "2B905F21-0BA6-483A-98DB-D183FEA59C91",
+          "E0A92401-B48F-40B6-A7EA-247532E05D0E",
+          "9F9178B3-8FFE-4A03-A063-F38A97745EFE",
+          "867EABD6-4CB0-4B3C-BDB8-2939913E6469",
+          "5FFFB255-32A5-47DF-A9A0-9DCBC8366E26",
+          "FF13C15E-AF79-4207-BB7E-3BBE8520454D",
+          "E2840191-7A8E-415D-BB61-C3E3EF780F6C",
+          "989467C2-8060-4C46-9443-04F5D70610E6",
+          "9B9C159B-BB16-4ADA-99F4-94BF82CAE5B5",
+          "B3D77964-BD2C-4F30-B5B1-5C7E31473A87",
+          "0C3F0BA9-0A83-4642-9311-2547330349FA",
+          "6681E314-1CD1-4EB9-AFD3-4394E5961870",
+          "EE3D30E8-3B18-428B-9818-8D4202FB085C",
+          "3396970B-6B9E-4CBA-B88B-5CF3CBD1D8D8",
+          "2F266D38-BFF6-4D87-8454-A8443C14B0E6",
+          "5CA4228B-24CA-4AE9-9F5B-92A6008D9324",
+          "5D902A12-3DD9-4375-8B25-135D4B8B275A",
+          "655E6077-8CA4-4754-87B9-764630F89AD5",
+          "BE1BD6D8-D786-4E3D-8E3D-48614BFFE111",
+          "CC130462-F190-4DB2-A694-03E1F6FD1418",
+          "9C7E6537-E8FA-4E92-86E4-555C4BDCB087",
+          "7E98D670-6CF8-4E27-8DC8-42FC85D40C72",
+          "3CBB3C0F-294D-4CC8-8E20-AF664CEE94CD",
+          "BF3785BC-11B6-4D71-A933-688A3975D932",
+          "355B7A96-CE6C-4226-B54F-FF75591D986F",
+          "60F98AAC-8073-4780-A743-B1DA6353DC4C",
+          "0BEE6994-B008-4EE5-81FA-2DFD0D69C958",
+          "502B007A-9E29-43F4-8B7A-2F385C9491BB",
+          "BAED1A53-B895-400A-A9D3-7FF4B54FBAC5",
+          "070FF489-ACB5-4551-8D1C-ABFF4B29FF71",
+          "9B2660EC-594F-4FDC-AB3B-5B4F1AD91882",
+          "E203AD28-BAA5-4E29-AC01-61A1B8D4E0E2",
+          "1C57677D-1E19-4A7F-A3BC-C55D19BB493B",
+          "4E6A55E7-1039-463D-9DBB-48F3301B8214",
+          "9B99220A-79F1-440B-9B41-ED74CD0E0A93",
+          "EE05FD90-CE2A-4A4E-98B7-135754BB3A32",
+          "E335272F-7545-489F-B34F-6E318E0A6571",
+          "134A082F-3ECB-4332-81D7-A315BC13651F",
+          "FEEA4510-3273-4980-9DA0-15042EB643E5",
+          "C21E1B17-BDB8-4B18-B63C-5ABAF4A5A461",
+          "F10E4FA3-7518-45C0-ABDF-9FDEC8DEB8A8",
+          "F5D7FEF4-6B08-497E-8EF4-287B45F3F5FA",
+          "BCE941C9-4B73-4B3F-BD77-8B7D845EA897",
+          "2A8EA62F-4822-45B8-AD05-7B9AF9D25A33",
+          "5CA36FBE-A922-453A-A09B-30C0A98F2F4E",
+          "4446FE9F-D47B-4F2E-9EBC-A364A92EDCA1",
+          "D58931AC-928E-4D70-9C0A-51BCCE3F11E0",
+          "50644CBA-DFC3-4586-B5E9-81BD83793CB2",
+          "A2A0FE90-1495-4AE5-BCA4-AE446D2E1198",
+          "C7C582B3-5D29-47CA-9E0B-62FBB145F8DA",
+          "FE44F9D1-194F-41BB-972B-2DF5F45EAFCC",
+          "7B506C68-1757-4796-A6D4-2FD4C07B0227",
+          "0B44C0DE-60C9-41B3-A408-AF3F2FA8E96B",
+          "62C65357-CFF4-4865-B860-BE2E5B6EFAE6",
+          "1D806D7C-26FB-4158-A50F-9FA886A0E5F9",
+          "FB1D91A6-AACE-42C8-B629-19A48187421B",
+          "36CA6FB0-8378-4DB9-8D42-7D058976E315",
+          "36B95B41-F29C-4DF5-B783-E9951AFB17E1",
+          "888EB71B-8A8C-4D57-8F55-72FC8F6D1850",
+          "3DF3DEFE-93D9-4E7E-A9B8-CB73FE8CD0C9",
+          "5570DC98-E188-4C67-86B2-1A5FBDA5366D",
+          "795C80BA-8AAA-44EA-B8EA-CBF7C4A2535B",
+          "1ECA2C0A-9FB3-465A-AFE8-779C29596647",
+          "CA090EB6-3D98-43FD-8425-F4A2F1CC1495",
+          "1B465F9A-1018-40FB-A8E0-10717763F5DF",
+          "3667E05B-A14C-4CA1-9DC9-E185797E1F9D",
+          "DB44EC85-1DBA-47EB-94D3-1D1A4AA964D4",
+          "6178648C-C81C-4844-85E0-27E6C486D951",
+          "DBA5CE8C-F1C7-4805-969C-C0FE0725D8A9",
+          "5F66A876-24FE-46E7-818D-ABBD2F1EC5FE",
+          "0BC47A0B-A877-4F21-B6AD-41953493CC2D",
+          "EB508F40-0668-43A3-B156-6868A77E20D3",
+          "3BD30533-432B-4672-A82B-2F828E60F86E",
+          "1EBED95B-81D7-4D7F-87DB-35AD1824B00F",
+          "BB53190E-EDE1-4D36-B1AC-2F34EFF4BE0A",
+          "ACFBF516-18D2-4410-B6E3-2AF0CF6ED5E7",
+          "CC77DC6A-1D5A-408A-9182-35B03852FC10",
+          "6F0D8871-EC55-4EC6-87DD-7776B6F11684",
+          "FD096F33-3DE8-49B0-BAC3-EC1E4697CE7A",
+          "CBD822BB-7069-42B1-9823-DE7FA34CCA4E",
+          "24965840-49AB-4F11-9001-15911941F69F",
+          "C70EBD80-C94E-4A22-97FB-2244B3A7B11C",
+          "58268750-053A-4A4B-97BE-70949448BEB3",
+          "2828F74D-EC2A-4A04-AD1F-8A18CB78A5FA",
+          "5034EBB7-8A85-4623-B3B1-A97860BC3783",
+          "DE998C06-A8B8-4991-BB8C-9546C9AF8F99",
+          "36F4CB25-F9D9-4883-BC86-3A0D6B328892",
+          "DD34ED73-A54F-4B13-8335-C7FF1F83698F",
+          "EA97F3E6-33C4-4B70-8D93-9180667CAC93",
+          "7B088070-56F5-49F4-A27F-118D3DAD87C4",
+          "49932AA8-665C-41BC-B043-6A97BA9AD29D",
+          "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
+          "99D5C0EF-D631-4355-95B2-CDCA4928F004",
+          "3F4B77DD-FAE4-43AD-B607-9F750230D3A9",
+          "6F5C7E7A-EBB4-4060-9540-9759AA1324F1",
+          "4937C00F-A435-4C83-9154-94A6FF9C584E",
+          "F64CAD3F-CD4E-4359-B48F-73C1DA5B589F",
+          "D480522B-74DE-45D0-919A-BF63BFE7465E",
+          "FB3F31A6-62E0-4382-ACDA-DD25D10B5524",
+          "C149F953-7168-4E93-81A9-91D5E42C977A",
+          "7FCE2211-CB1F-41A3-9ADD-011077FF62EC",
+          "F1EF1141-DB09-43AF-84DF-3D3FAD6CD459",
+          "B6B3E666-792A-42CD-A0C3-1049A32D2D68",
+          "11490359-B6C9-404E-9000-7CCB0A8C1DCE",
+          "5CFB18FB-2D47-456E-9869-4059373BDCAB",
+          "DDA9565C-C951-4F7A-9696-0454B15CBE5A",
+          "418E7F0A-C1D0-4A42-94B2-84EA103DB734",
+          "B869A9AD-5B80-4C94-B6F6-6D3010C63ECA",
+          "D580F301-8A29-49BC-801A-5BC7C337004A",
+          "F1C84874-B843-49B8-B271-B3D91F0E07B9",
+          "C59894EB-7E7C-4028-AC9D-1E34D069E5BC",
+          "422C350A-931E-47FE-A467-A0DB785C1B75",
+          "0CE3546C-11E1-4224-8AF2-84C6BFA10B26",
+          "EBC3A586-5615-4ACC-A821-E1220D69971D",
+          "4D10C9F1-E3BD-4427-BAE9-A9DE720F50FE",
+          "5C13106D-CB0D-44C5-96E1-7077116FB41F",
+          "24736298-D9A2-49F1-8374-438A208AC90A",
+          "48ED801B-13FD-4A43-B4D8-CFDF1C20CFF8",
+          "A08ECF84-CB06-43EA-AB98-1A975D028BA9",
+          "1ABFA2B3-8F87-45FE-9723-C107A31E3166",
+          "0C3A77BF-9C12-421E-8137-440CA0E45689",
+          "7BE73E5E-C7BA-4770-9AFA-BF2A1E1B5355",
+          "B7BAB51D-BC6E-4DD7-AB0D-74F121A9F7ED",
+          "51C2D7A9-BFC0-4004-90E6-23889E5A186E",
+          "6F39E229-1DF6-4C2E-83F9-9200F76E18DE",
+          "17395A65-2F27-4F7A-8545-6F315C20D71C",
+          "83DCDC10-3E3F-452F-A2E8-D0122635E89A",
+          "132630E3-44EE-40A3-8EEC-1FD4B696A6A6",
+          "B8F0B30F-FCAC-47B5-890A-E56DF7FD7A95",
+          "4CBE8E2A-4C0A-4954-AA48-2B7C168E2933",
+          "5287543B-4749-46FC-A199-5332687716ED",
+          "657D1386-F3CE-423B-8B6A-B0516216DA79",
+          "44497C33-5C6B-4422-8E90-A0C19C7AF9FE",
+          "13DD9031-09A2-4CC2-B729-FC84379E5CAC",
+          "25C79496-6BD0-45DA-8943-31BA8F634E98",
+          "C5FDE974-581D-4050-A6C0-EFE04B027104",
+          "23FFBA1F-1259-44EF-AFCE-2B09DA10BD41",
+          "9F67C78B-9FE0-41DC-BCEF-94BB30CE6A79",
+          "64680EDF-0F28-4F9E-9E41-DFCD45ADE858",
+          "C1859C4D-B122-4060-AD9C-ABB835F3607C",
+          "E5C0621D-2E41-4273-94D2-4D3AB031E7EB",
+          "26CC4197-4D6A-493A-8CC0-C4FA87A39933",
+          "30C37C48-D756-4A13-A0BD-79280B320A9A",
+          "4622AE17-56C0-4F04-9AAA-D4F7EFE44392",
+          "7C39BB91-BDD5-419A-8704-7DB35F16AA41",
+          "B8CE35C8-2B8E-4C7C-877E-DB94D3DAAE91",
+          "211D0CA2-54E5-4B26-B624-45EB7CE03ED1",
+          "C664A5D8-269B-4D9F-B9A9-0B5FFC930A63",
+          "8FDA08C5-0B08-4DDC-98E0-EBE61C2797D1",
+          "9464C2BD-C665-4F78-941F-1AA019E01D47",
+          "4CE1EE8F-65FA-435B-ACAF-29550A70D655",
+          "97DEF94F-D235-46E9-96F3-5E9EAC1C5C46",
+          "6E0BA35C-5153-47F5-ADB0-D767AAAD2A6A",
+          "C6120570-7E88-4090-A6F3-893DC080EA31",
+          "A3DA771C-C58B-4019-B4FB-E6E3EF4DF2E5",
+          "2D44FD98-DADD-4108-9C06-308FD153DE30",
+          "9B5F8028-073F-4DE7-BB2C-AA0221100FFE",
+          "9B944868-8090-4A59-9109-72A341592754",
+          "B4B9926D-B827-4BE5-A0CC-FDA6F9CEE9B2",
+          "C2B882C7-2C04-4E95-B350-3B77EAA5A731",
+          "0CA823AF-57B9-468C-AE98-F1998DC5E11F",
+          "FD610032-C73A-4D14-B9EB-1C2B5E48440F",
+          "AAB134C2-6FF8-4561-8034-58C39E3E8354",
+          "28B97077-7AA4-484B-852F-A39FA4D2A5DB",
+          "BA0280AF-68A7-4B54-AE9E-8D5EB67B51B5",
+          "0F4034BD-A2E1-48B3-AB0F-965929098598",
+          "94506B35-F8DE-4A07-8FDE-7A743FC115D6",
+          "ED85053A-45E8-4FEC-B01F-68FD6871B417",
+          "6CEBF24F-6D1D-4FE6-BF0C-278872787F97",
+          "32546116-2181-4355-A313-607A564D9B7D",
+          "B7F16DDC-368E-428E-B792-66B1D6994D1A",
+          "0EAB37C1-3969-43C6-9F5E-68AA1F3E758D",
+          "F7B2AF39-8B4B-40D7-B010-41FCF17C4399",
+          "D9760CED-3F4B-4A7A-ACC7-64917463391C",
+          "47EAD375-A720-4E53-B75C-4DBFC9137FB1",
+          "24CA4A4E-1D4F-41F1-B848-884F44DA15BD",
+          "C43B0629-2237-4D79-A92D-07EF9E9405B8",
+          "7809CE53-D9B7-4F49-A540-1FE89E4A150F",
+          "72E1DD79-852B-49F6-9A6B-ABFC138B273C",
+          "3D708BF4-9CAB-4FE5-AE74-FA3B4B083111",
+          "1EB4EBFF-8F2F-46D9-978B-E836F18E40C1",
+          "A6537E0A-582A-4D85-ABEB-569A2704BAFE",
+          "790ADFBD-366D-4768-B085-A93EA08C8781",
+          "4AFFC5D4-0328-4A8E-8228-21914DF5BA7A",
+          "ABF157E5-2A5D-4E71-82B8-25ABCFDD8DC9",
+          "66BBA917-7AF0-4F14-9B6A-D36392294DE2",
+          "5232ACE0-9589-4B5A-AD3C-6138DB1BC8B6",
+          "2947FD1D-6E6D-4C9B-94E8-550D7341F2D8",
+          "1E9A2517-95B1-4AD9-8E51-6CDABFB4FE84",
+          "8E27FE4C-40CD-4F39-97AB-1B74A3941B39",
+          "15F428C9-52F2-499E-BDB8-B21F17914694",
+          "D2CB010A-B804-4D09-96B2-7723332DB1F2",
+          "3F9319A8-52FB-44F4-A393-BFFA1CD80565",
+          "163781C6-249E-4B7F-82FA-90D8FE9A579B",
+          "AE782BC6-206A-4E80-BDBE-B65E18A9D081",
+          "863BE1B6-E7A6-4818-AD45-41A24C807182",
+          "54AE3DED-1D5F-43CB-B321-1FA7D77B9D53",
+          "49BA861D-6DD0-47CB-A96F-1784A3C7B8FE",
+          "2D7DFBC3-F0E8-439C-AA14-3AA4E2737B95",
+          "A603B527-BE21-4C9D-9118-CCEF01A758B7",
+          "33C9F048-9F0D-4EC6-B726-5FFD223EF96F",
+          "9795A3A0-ACEC-4563-BE0E-ABD5B5F32477",
+          "31BE7537-A2B5-4712-B94C-88ABAB2C23A0",
+          "77D5F558-0FA3-4154-BBD3-F353FE335AA8",
+          "D6E44568-9943-4B3C-8EA1-6154B73ECDC2",
+          "3304F901-CCFB-4A31-9FE2-3A91F14BC5B3",
+          "F75FB1E1-8D47-4654-BC9D-40A3224FC37B",
+          "3F777018-150B-4149-B9DA-F741EE29D531",
+          "5A1E5268-9A94-4836-B4C0-30C6C02E8456",
+          "26AEBD5F-02C4-405B-B357-3482ABBADD25",
+          "0EF525E7-7711-4970-ABA0-4022B299A01F",
+          "3ACF18C2-F984-46B4-8FA1-8873EC73CE52",
+          "7FA7D8F7-1723-4655-95C3-D9B3B22D1605",
+          "59AB9C8A-5D9B-45C6-AEAA-C22DE56A4825",
+          "833C114D-C15D-4A21-80A0-71F95071E2A6",
+          "2657C3E3-F1B5-41BE-B415-94D50460CA07",
+          "E9CDE73D-0115-43E2-8014-4B3321AE5146",
+          "48EA9C34-7CB5-4F2E-981B-104B57DBD97E",
+          "1E07B1C2-7299-4845-A38A-15FEE7F4CF61",
+          "58940B34-43E5-4AAE-8BFF-A9A105E07D92",
+          "1A2755C9-FAA3-4804-8D18-00F9151E8231",
+          "EA3CFC16-0614-4A73-8848-CF80F042E715",
+          "9759B523-E80D-4EED-AB52-44D2F04CD4DD",
+          "5CADBA63-B82A-48FA-8801-180900B99924",
+          "9C6416F9-115D-4CB5-80AF-AE618A4CD228",
+          "A844E38F-A8EC-42F5-A453-E84EECF3D2EB",
+          "8AC6DFF0-5D62-4E05-9078-77C54F2D1721",
+          "CC400ED7-36AD-4B57-9BD8-FB619C34A49D",
+          "7913BD25-1C56-4510-95CB-92D861074730",
+          "C515115D-130D-4944-A7C2-941B7B46F1EF",
+          "0CB56637-1D4D-49AD-8694-C46BF61C2ACC",
+          "92A52DC4-5453-46D6-AE86-2FA8E97CEB60",
+          "A926887D-5B95-466A-A734-29254C038BEF",
+          "68550498-3C66-476E-8AC1-601543D585E0",
+          "0D78BE7B-1BF5-415C-A926-F534CF96EE93",
+          "C6B03E81-23A2-4716-B3CE-02C2D5C73916",
+          "0F256FB7-D4DA-40EB-A7A8-4007BCA43B2A",
+          "65891315-6B15-4679-AFB0-FD7ECE54E1A9",
+          "EC5A7419-4CEC-472D-A776-330A413D0008",
+          "A16A91ED-E840-42BF-BD0B-F37D7D12A47F",
+          "1BFD8B13-9D16-4A97-A4B7-16CD886BE2A9",
+          "9367C973-7EDE-4CA1-A4FE-F9723AAD518A",
+          "3FD16123-6B43-4B17-A528-4A4678CF54FF",
+          "4B2D8941-5C7D-4B5B-ABAB-765DC0DA0528",
+          "00ADFA12-7323-4C5B-9687-DFE2A14C9FB0",
+          "1BB10D0B-F95D-413E-B40E-D7205DBD154D",
+          "A6DD64BC-C66E-4ADC-A77F-2481DD2BF72F",
+          "BC28689E-E97C-4893-A6BC-1F358A803B7F",
+          "F7E21251-F96F-4D70-BA49-813C3CAEF1AC",
+          "8FF01A87-0525-4CB1-8258-BAD09B4618EA",
+          "F5D0C345-BA0A-4196-8733-2E250A191757",
+          "63D507AF-D7D8-47D7-9A3E-D0197BF8CA2E",
+          "4BC0B966-7764-4888-9D51-C4E9452E0249",
+          "F6C5D907-9E00-4AD7-87D5-0ADA769B0D4E",
+          "78DE1432-660A-4679-AA4F-0C86F7A97398",
+          "07EF873E-FC86-4CCB-A84A-F71144F0E84E",
+          "A87658B8-7262-4505-878A-EC8DC78445AD",
+          "1FCA2537-B68A-420C-B772-73D883B1F0DF",
+          "21C555B2-AA5F-442E-93BB-5D2F0EE52D0A",
+          "A3A40B04-5507-40FA-8816-17B5793D9D86",
+          "0A200FEF-9CB8-42EE-939E-06FB606E12FB",
+          "8576125A-8FCA-4028-A93C-0D1F8E5F6E5C",
+          "2F5A8206-406C-4F26-B381-B1951BA67127",
+          "1DA93EC0-B341-43F8-B8C1-047681CB4DCC",
+          "A123C8C9-A4EC-408B-8831-748DF463457F",
+          "F8B82CB8-F37A-4023-B7A7-8B09B3A54607",
+          "1DC50216-EAAB-4E31-86D1-55DB03A3DA1C",
+          "5408228F-57E3-4C56-82ED-E79497F37C36",
+          "DBE3873B-6780-4943-A905-AD5CE30593E5",
+          "F8CB4F53-76E2-457B-8D8C-EEB20523BE1C",
+          "59FBF438-A2AC-41B9-9852-F4CEF13CFEA3",
+          "27C1AB44-B945-4B8D-8185-7E665E337CAA",
+          "D64BE611-7C3D-4D03-889F-32C977519D98",
+          "AD21E920-78BD-41A8-A96F-DB2E0D4ADB33",
+          "090C9332-9EE2-44AA-80C4-441AB7CE742C",
+          "281B4063-D3A8-43D5-A318-12300E1EAB94",
+          "4ACFC62A-6B32-4D4C-8038-90862B7177EC",
+          "54FFA01F-E1D0-4982-A3A0-4B9753E21F68",
+          "05130040-4C17-4723-AA26-CB9F06B34B52",
+          "7E6E450B-10A8-4796-8387-04D6249C8B2D",
+          "25EA06FA-6203-40E4-829B-6514C6FDF635",
+          "9C742CF2-8116-4DD5-8CFE-0F08CF54D29B",
+          "3598CD69-F936-474A-900F-9A09C4C65076",
+          "B2444CA6-D671-4580-BD77-5A85EBC2FAC9",
+          "629B06CA-3EB4-48BD-A8DD-8EEB397AE2C9",
+          "810CEB91-DAF2-417B-9157-0D4DBFE9E159",
+          "E3F59A32-20C6-4469-BF1A-4200F316D259",
+          "9D4CB56F-97BF-4783-8F06-B9A4BBF246F2",
+          "20028956-73F1-4EEF-BC2A-3A27E04727EC",
+          "94A17BA0-2654-4220-B8CB-574B9F8F29E2",
+          "965E3B9B-589F-4A9B-AD32-6429A039BF47",
+          "3FB7F3BE-63C8-43EC-8968-6634615C445F",
+          "BCEB3D51-E970-4DB7-A01E-F4D39B539203",
+          "81674569-6079-48DD-826D-FD15FB713F18",
+          "CBC5E8A6-CBA7-4492-9542-3C86AF9B0156",
+          "CFBE1E85-A5A5-4768-911A-E7522C44E07C",
+          "C150223B-C639-4FC4-B2BE-24F683291292",
+          "3ABDDB45-9E66-4B05-8A6E-AEFBF81463B0",
+          "B4506248-44C6-45C1-BA85-8CC41DD748AB",
+          "D1577FF9-3050-41BC-BECC-689BFA494CBB",
+          "FFA137BD-F71D-4619-B402-72FF3303712C",
+          "87EB9B5D-A5A5-4ADF-A0EF-0226EF3412D2",
+          "C9CD658F-E2C9-4525-970B-19DF5F54ECE1",
+          "A80FC827-4EAE-42B9-8482-02449079AA5F",
+          "2D7BB350-6320-445E-A58D-69EAD6728E1C",
+          "17DA3072-7637-4672-BF7C-727E6F6C6CCB",
+          "63EFEC46-DA54-49E4-B0CB-89635BEA610E",
+          "68ABFA17-CB09-4A21-8EA4-D28E4910D123",
+          "04E6B3DC-0F20-49EF-917D-5708E4183FD6",
+          "1BEB0240-D7AB-43E0-AE21-D0342B827396",
+          "F963917E-22BF-41A8-908D-949054BB70DA",
+          "14B3AE64-9AE7-4F0F-AF09-AEA62AF1393D",
+          "C140BA31-ABAE-4185-BF6E-9421AB6D471D",
+          "32E95B39-3864-46BC-8ED4-E83A8CBF5B60",
+          "D5C65EC9-11B3-4FB9-B3B6-43D2CDCC9E45",
+          "B51A2B46-1AE5-445F-AFCA-6DC0CD7C081C",
+          "6CEB8076-3036-4D09-A4E3-A41D731CF7F1",
+          "7749EEF9-0B84-4A27-83D7-E22623D2FB4C",
+          "5BF9AFB5-9E12-48F6-97FD-CE792A34A892",
+          "C60D56F0-49CF-48DD-95E5-166DEBBA90E0",
+          "674EDF2A-7478-4B26-B9A3-702BBF6C8BB8",
+          "C53EC48D-81D5-44F8-9878-0B00885B4ABE",
+          "F24FC47D-A520-4612-9FE6-94A1A1858F73",
+          "F919730C-9EF0-40DE-BC09-AB2BCDA1280B",
+          "C8CCE2EB-C655-499A-9CCC-5E2551DBDFF5",
+          "3FEF6058-3944-496A-952C-7EE345921E5C",
+          "4473A2A7-B9B9-46FF-A1EB-5ED991855AF3",
+          "2B8A00E6-8E89-43B9-9E5E-F974127B8390",
+          "A777DA24-3B1D-4630-85A3-EAC81973CEFA",
+          "D4BE500A-2B2E-42F2-A9A6-C60F2443FD9B",
+          "8EB1A8BB-BA33-417A-9BB7-D5BD9795B7C8",
+          "C5663795-843B-403A-A9C6-BAA9D2FF7EB2",
+          "28422A98-98D0-433A-ADD7-31C99CE28686",
+          "029BC981-B1EC-4EE2-AD03-48514E93888A",
+          "8C11EF8F-371D-452E-A6E3-A56386DE3B5F",
+          "D6748387-C5BB-4694-9089-4FA8F90BB2CC",
+          "6C30150D-BD4A-44AD-AD7F-E3DD7F11EA76",
+          "E420542C-3D49-47D8-8456-EA41BF28B225",
+          "FE851999-BFEE-4AE1-B965-9BA209AA7DFC",
+          "7DAB51FE-2DDD-497D-A334-3746A764F8BB"
+        ],
+        "hashes" : {
+          "symbols" : {
+            "5BC87BC3-F019-4118-94CA-360E785C2E18" : {
+              "name" : "icon\/caret\/arrow-forward",
+              "hash" : "1f9f51356da1f4f13e4751dbac7f5ad0258a3699"
+            },
+            "F4F4D1CF-73CC-4D67-9D96-CBB1050E2A1D" : {
+              "name" : "icon\/caret\/arrow-backward",
+              "hash" : "8209f48fd5127d7ad15f39fea73b72165488f7b1"
+            },
+            "09C40985-FA28-47D9-B9E2-69A00A55D2DF" : {
+              "name" : "icon\/form\/switches-on",
+              "hash" : "92a22f5bc8e0ee978f36e22c0329491b7c3dfacc"
+            },
+            "A98DC158-F201-47B7-BA82-1BB8ABBA7269" : {
+              "name" : "icon\/nav\/apps",
+              "hash" : "9ad553a60ff6dab57ccad74ff01dc634f618f14e"
+            },
+            "88DC60D8-BE21-4ED5-9E92-24496B62F1C7" : {
+              "name" : "icon\/communication\/mail",
+              "hash" : "397d504cd641aab80c9d1aebdd561f31434ef53d"
+            },
+            "CE5DCACD-6B9B-42F8-A4CF-7DEF0437C9BC" : {
+              "name" : "color-palette\/grey-9",
+              "hash" : "79fa3aa76ee413544d774fccd192096db58bb73d"
+            },
+            "333C9193-FE5B-4D4A-AF3F-6953237B5506" : {
+              "name" : "color-palette\/grey-1",
+              "hash" : "f59bf9ca7d06b2063e8f910d14b225af43c68b74"
+            },
+            "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
+              "name" : "color-palette\/color-container\/square",
+              "hash" : "7a605f33bb59dfef44d1d639d67c693e80d9c184"
+            },
+            "5A1D3A8A-D72B-4C13-A951-41306148F212" : {
+              "name" : "icon\/history",
+              "hash" : "b2b7c9d46d276aef55d7cf723447e097b0aa3789"
+            },
+            "C6F0A011-9900-4A26-B1D8-903F22B55D26" : {
+              "name" : "Components\/nav\/module-header",
+              "hash" : "16539379cb6322d849cd75da7e4b03c239b6dd18"
+            },
+            "88DD7F2B-D1C3-415A-893C-938F1F9BF06D" : {
+              "name" : "Logo\/Product\/Module\/AI Lab",
+              "hash" : "6bcaa2241e7b3534acc6fb1a05721018cacb60ab"
+            },
+            "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
+              "name" : "icon\/bookmark",
+              "hash" : "e464617ad22dd957e4b98d09b924d089e5cf9e6f"
+            },
+            "19F546A8-AD43-4577-99C3-8AC331D06205" : {
+              "name" : "icon\/action\/download",
+              "hash" : "7f6a3e38f1bd0c5ee1e93bfcf98020aca134fda1"
+            },
+            "CA4CE54F-3E12-41AC-AE38-2568E28484C0" : {
+              "name" : "icon\/caret\/arrow-drop-down",
+              "hash" : "069b4542ccdfd9f21277cec3a3abfa0d6156de8a"
+            },
+            "ED973818-5B09-4828-98CE-78023B7D83F1" : {
+              "name" : "icon\/caret\/arrow-right",
+              "hash" : "dce9c2b116a6ba341f149ce167ff652c811b24c5"
+            },
+            "45144380-6F6C-4261-B8A7-37FEFBCDC5DF" : {
+              "name" : "color-palette\/grey-9",
+              "hash" : "79fa3aa76ee413544d774fccd192096db58bb73d"
+            },
+            "F45B83FB-C396-4608-A013-693AB586E991" : {
+              "name" : "icon\/form\/checkbox-checked",
+              "hash" : "34fb075821ecadb55bce70734a4b3502bbee2a9f"
+            },
+            "60F120FE-9E36-4936-93DE-E7AECB504E40" : {
+              "name" : "Components\/Button\/Toggle\/middle",
+              "hash" : "f6504eaf871ccde0d370d5eee8a945aff45ffdfe"
+            },
+            "EABC4FA6-A728-4649-9544-1EAA35AE6733" : {
+              "name" : "color-palette\/grey-1",
+              "hash" : "f59bf9ca7d06b2063e8f910d14b225af43c68b74"
+            },
+            "426041AF-44EC-4E61-8E14-337946779928" : {
+              "name" : "icon\/alert\/success",
+              "hash" : "67635eeff896e6e940cfba72017d1416c5c7139f"
+            },
+            "046EEB40-56A7-4202-995D-75E6F69AD1F5" : {
+              "name" : "icon\/action\/setting",
+              "hash" : "672558976e607e339995dd9aa49ca94cdbf35007"
+            },
+            "5468463C-59C4-47C3-AFF2-717EDE803665" : {
+              "name" : "icon\/nav\/menu",
+              "hash" : "e81c4dc5e5bcb376e36f9b97ce447be7a69f6e6e"
+            },
+            "30521625-2725-4007-8C59-8E045403C36C" : {
+              "name" : "icon\/caret\/arrow-up",
+              "hash" : "5d4a10daf9ac31898433c9d38cfc5deb4bc38cb3"
+            },
+            "7C9145CE-48CD-4751-ACB7-4A787949D46D" : {
+              "name" : "icon\/tour",
+              "hash" : "eae1df1336799c9507a4d7318fce43e32178943f"
+            },
+            "CA44D5FC-4CBD-4A86-8A67-4CA06455D4E5" : {
+              "name" : "Logo\/Product\/Module\/alertCenter",
+              "hash" : "a4f92ed6f7966d7caa5e9c2468448c94af7a3ff6"
+            },
+            "4FA42AE8-47DB-43E4-B7FC-88217CE16023" : {
+              "name" : "icon\/caret\/arrow-left",
+              "hash" : "11486aa970138cbbba100c93520e6acc0b016ee9"
+            },
+            "D97E13A2-493D-409C-B72A-3310E9D50A7E" : {
+              "name" : "icon\/caret\/arrow-drop-up",
+              "hash" : "372340221bbf705c472bc06c083ae62ecd686bd1"
+            },
+            "EB2214E3-AFF6-450F-BDDC-5D3D4F17CB53" : {
+              "name" : "color-palette\/yellow-5",
+              "hash" : "81fe21e7b2da1cb6d8c4a272ecf3452e17f5f928"
+            },
+            "C29613A8-F028-4C03-898F-6EAB2C7234CA" : {
+              "name" : "icon\/archive",
+              "hash" : "57882deeaf3c2dd7ae2ba34671b5993d2122940d"
+            },
+            "DC15C501-83EC-490F-9C22-03B48B58E45E" : {
+              "name" : "icon\/alert\/error",
+              "hash" : "afe2850ad4b4090dff47b6084a0d17f4e509a838"
+            },
+            "5B8F771D-1D03-403E-8EAA-411610C8FD13" : {
+              "name" : "icon\/view\/card-view",
+              "hash" : "256dc6ee4ddbf93328ca88ecd41ae4236a4cc8f6"
+            },
+            "2A0CC75D-DE53-44AA-B7AB-AC21D2F881FB" : {
+              "name" : "icon\/alert\/error",
+              "hash" : "f6a0ec5e3a69f023b8064ea077087e48936a9e6d"
+            },
+            "1849EBAE-A504-4508-91E9-1483816702B6" : {
+              "name" : "icon\/power",
+              "hash" : "6e81d6a81de257664f879524e71f7916bf8b80f1"
+            },
+            "FC940AAE-3797-48D9-BC28-25E16AD4ACDF" : {
+              "name" : "icon\/form\/switches-off",
+              "hash" : "8d50fae5aff556ad8e8627797fd25967fde74341"
+            },
+            "D1C10020-65CA-4CBB-B0C8-342AD33B0B87" : {
+              "name" : "icon\/caret\/arrow-down",
+              "hash" : "eb9f8454cd77042ced7bd0264679ed1ecbb45d97"
+            }
+          },
+          "layerStyles" : {
+            "0FA09F9E-FA5B-468B-A4E7-4C7F50786D8F" : {
+              "name" : "Color\/teal\/teal-5",
+              "hash" : "d97d31e8aca67e73df3f578917f41f33e03ef18d"
+            },
+            "526E4E43-E6E3-4660-B387-A36E45E19AFC" : {
+              "name" : "Color\/grey\/grey-5",
+              "hash" : "d63d515904cedec56211134edf60b6798df2deaf"
+            },
+            "12D9EA2B-0E5D-4203-8151-3A49F92CB11C" : {
+              "name" : "Color\/green\/green-5",
+              "hash" : "3ec5c173efa53e503577aab23cd2a4198f2cbab9"
+            },
+            "7FD12321-2C7B-46E9-B77B-3D37EBF28D39" : {
+              "name" : "Color\/yellow\/yellow-5",
+              "hash" : "8b14e4777c80568d88c4eb289778f06a5b20928f"
+            },
+            "42885256-D714-4688-9FA2-B4A786482E62" : {
+              "name" : "Color\/grey\/grey-6",
+              "hash" : "62f7286511d3e65d307ed891deb96ac5d891f2ce"
+            },
+            "8DF336A9-202D-4151-96F2-065336DC3A28" : {
+              "name" : "Color\/red\/red-5",
+              "hash" : "bbd0e4164407c72f38c1d0968760b61164c9c1e7"
+            },
+            "A5583F20-162C-4FF1-B013-E04B551B5BDD" : {
+              "name" : "Color\/orange\/orange-5",
+              "hash" : "f50f9d3c59b1de94021f5fb62efadeba03aa2460"
+            },
+            "72C7117E-BD14-4422-A448-5AD2ED2E13B2" : {
+              "name" : "Color\/lime\/lime-5",
+              "hash" : "e8853d12cb182e6db7a89dd9f17f87df15d51b39"
+            },
+            "3F7F280B-82E6-433A-82AE-CE086B89D6E9" : {
+              "name" : "Color\/grey\/grey-1",
+              "hash" : "3c990c68c4e5611c849dd53a45877657d516e339"
+            },
+            "6D4D9254-C103-4514-A78B-86B0F4FA9B08" : {
+              "name" : "Color\/blue\/blue-5",
+              "hash" : "4b2bdbf7ec3b3bd0f08d6947602b04afa2e2112a"
+            },
+            "ABEC4A2D-CE20-4812-B4DA-EFF2704886A2" : {
+              "name" : "Color\/grey\/grey-3",
+              "hash" : "137a95082a623815f63fba3249c914b9979ce19c"
+            },
+            "25FAD0C0-29D2-43EC-8C23-803B24841226" : {
+              "name" : "Color\/blue\/blue-8",
+              "hash" : "5a3e3d0e9afbe9a94b71cd30c9a10b536831db08"
+            },
+            "FD90E6BD-2F45-488B-A8A6-815C4C1D551B" : {
+              "name" : "Color\/grey\/grey-9",
+              "hash" : "71864fe0394bdb816ffca1477d037d08393afb2b"
+            },
+            "341CD8C3-7370-4A71-AA69-A81285888399" : {
+              "name" : "Color\/pink\/pink-5",
+              "hash" : "9dbe563c02276802698fd98f9cd6e34d9a855abe"
+            },
+            "B03DD753-24F5-4309-B6C0-9698A4F2BC39" : {
+              "name" : "Color\/grey\/grey-4",
+              "hash" : "dcea8c8d7854bbadf93c42b8317e7df3c1aeb335"
+            },
+            "3BA3648A-146B-44A8-B21D-E7D178B981F7" : {
+              "name" : "Color\/black",
+              "hash" : "669e6857cc4783a1bc46da4f5a32f5a09ad65955"
+            },
+            "48008EB6-5313-44DE-833B-922214BB0357" : {
+              "name" : "Color\/grey\/grey-2",
+              "hash" : "42597e43138ad1aafebf92c413fa32bef9c0d34a"
+            },
+            "86CD91DF-317C-48E4-99F3-F459E65A78B0" : {
+              "name" : "Color\/grey\/grey-7",
+              "hash" : "b5ec429e3db03e4dcfffb9445e285742e7bb52b6"
+            },
+            "B23383CA-311C-4F50-822B-AB29A6EA0AA0" : {
+              "name" : "Color\/white",
+              "hash" : "433a6568cb65445d32664e2c50412ec87b55ce2e"
+            },
+            "35E8DD6F-EB63-46B5-8BD4-783DB86728C8" : {
+              "name" : "Color\/violet\/violet-5",
+              "hash" : "75325635a30a510235cfdf1e0771868ac12b460c"
+            },
+            "C6776966-5007-4978-87FE-22A507525BC0" : {
+              "name" : "Color\/cyan\/cyan-5",
+              "hash" : "4547294f1072e6557723067ee8413afd382e03c1"
+            },
+            "7784EBFD-298E-4773-B3F8-B5EF87CF7DB9" : {
+              "name" : "Color\/indigo\/indigo-5",
+              "hash" : "a0b420a885d12046e248016796800d12b83591eb"
+            },
+            "17C66112-B33D-4267-9633-7DA425D52603" : {
+              "name" : "Color\/grey\/grey-8",
+              "hash" : "657c0a6eea930a32e35dccc19f7e0448e1252241"
+            },
+            "DA807121-5BAA-4D5A-AB2E-E4F156E414D1" : {
+              "name" : "Color\/blue\/blue-9",
+              "hash" : "0050d199aea1d41f09e51f9fd9bcd3a09d7117cc"
+            }
+          },
+          "textStyles" : {
+            "5F9BCFD5-95FB-486D-8899-FC696262154F" : {
+              "name" : "Big Text\/B3",
+              "hash" : "7c715ed213637c27c71b6bef83f9b6464558b2c6"
+            },
+            "EAA29906-D121-49CF-877F-F6559EECCD7C" : {
+              "name" : "Headline\/H2",
+              "hash" : "94bd7b654901b4b82b308d7f3f8e07915948d297"
+            },
+            "F3B3A253-E4A8-4158-B6BB-0E52BC69C4D2" : {
+              "name" : "Headline\/H1",
+              "hash" : "f198c51f6a96d9766bd364e8899cc4f2e7edc7d8"
+            },
+            "962DE1B1-C43D-42A7-BF58-BE51AF6AD95B" : {
+              "name" : "Article-Text",
+              "hash" : "4eecb3d3add4eb5775907743c195452afeed7b0c"
+            },
+            "126F882C-F8DC-4103-BAF0-E897F7A32D29" : {
+              "name" : "Body-Text",
+              "hash" : "c9fd0616fbb5907cc21eb3b451b4ff8ef435008b"
+            },
+            "B02AEF6D-455D-477B-AAE6-D6F084B79A70" : {
+              "name" : "Metadata",
+              "hash" : "6ea3f1d9035606748ab85ffebff97f60cf985671"
+            },
+            "3774B9B5-13F0-43BD-B8BD-B5F458816FB4" : {
+              "name" : "Big Text\/B2",
+              "hash" : "958ece810278c2e7a4004aa157447dc967c61ccd"
+            },
+            "AA29C4BB-BB5B-4983-A35D-F0427ACC9B9C" : {
+              "name" : "Headline\/H5",
+              "hash" : "9cfdd1dbc13c4b2a70f01d5ef1ac687858d6c186"
+            },
+            "BD33688B-3A11-4B87-962F-AF8288821022" : {
+              "name" : "Big Text\/B1",
+              "hash" : "584f4bbd75abcfe5871a31b07cb76b5ffe436b49"
+            },
+            "4D8CA164-51D4-4B19-90B4-FF9A1CE08B27" : {
+              "name" : "Headline\/H3",
+              "hash" : "def30c1d1326ada7874982d97f5841460dad9897"
+            },
+            "299C9A09-9A3E-4351-994E-AD8733C0DF98" : {
+              "name" : "Headline\/H6",
+              "hash" : "ff1473fa099723857cd0e1c7ea0cefed307717c2"
+            },
+            "01C00F54-B80C-49B4-AA43-3C6F51370732" : {
+              "name" : "Chart annotation",
+              "hash" : "be0812214604de1d8e0eea469e1cdf321e5b7e61"
+            },
+            "2FB10763-B080-4028-B1A6-0CDC83D31B87" : {
+              "name" : "Big Text\/B4",
+              "hash" : "a8cedac405f6dd3ca6a6e55729b50b526d294870"
+            },
+            "146316C3-5756-4425-B782-CEDCF1D6DEA8" : {
+              "name" : "Headline\/H4",
+              "hash" : "4bf3e29f2f7cbe3735c69ec4190911c5fd06f0bc"
+            }
+          },
+          "colors" : {
+
+          },
+          "layers" : {
+
+          }
+        },
+        "sync" : {
+          "symbols" : {
+
+          },
+          "layerStyles" : {
+            "98EBD0CD-9483-413D-B6A2-3F70C732437F" : "6D4D9254-C103-4514-A78B-86B0F4FA9B08",
+            "BC1235C2-F411-493C-B177-4A0573805B3C" : "7FD12321-2C7B-46E9-B77B-3D37EBF28D39",
+            "D02CBFD2-B117-4E17-8DF7-AE11D201B153" : "7784EBFD-298E-4773-B3F8-B5EF87CF7DB9",
+            "54FFA01F-E1D0-4982-A3A0-4B9753E21F68" : "65ABDC1D-EDD6-4481-A797-65D0FADF0838",
+            "F57B5D3B-CF34-4548-A333-720E3882FB4C" : "86CD91DF-317C-48E4-99F3-F459E65A78B0",
+            "833C114D-C15D-4A21-80A0-71F95071E2A6" : "2C1E4C14-3DBC-45B6-A613-536A12598766",
+            "5FFFB255-32A5-47DF-A9A0-9DCBC8366E26" : "F2B68CA7-5997-4074-A159-1309BA5270DC",
+            "2896E5A7-3EFF-43CD-8823-636CFA093E4A" : "25FAD0C0-29D2-43EC-8C23-803B24841226",
+            "5E220656-0568-4550-93B9-18035CBB2AC9" : "42885256-D714-4688-9FA2-B4A786482E62",
+            "2FD5E863-4E65-4BBD-AF1F-054E5CC3F5D2" : "8DF336A9-202D-4151-96F2-065336DC3A28",
+            "7C693D74-571E-4CFB-A8CB-631C6E4D6EAD" : "17C66112-B33D-4267-9633-7DA425D52603",
+            "B229350F-8097-4976-9275-F633E126D625" : "48008EB6-5313-44DE-833B-922214BB0357",
+            "D64B55A3-B4E3-462A-B324-245101B16227" : "B23383CA-311C-4F50-822B-AB29A6EA0AA0",
+            "EC61C741-EE99-4E51-97E6-5268B81DCAC9" : "B03DD753-24F5-4309-B6C0-9698A4F2BC39",
+            "08CB796D-1C99-4038-A1E3-1139D9C64604" : "3BA3648A-146B-44A8-B21D-E7D178B981F7",
+            "E9A57A35-91FA-411F-B865-805E6A532CDE" : "DA807121-5BAA-4D5A-AB2E-E4F156E414D1",
+            "A17812D7-2D08-40A0-AEB3-F187BDDB453E" : "341CD8C3-7370-4A71-AA69-A81285888399",
+            "9889BF0A-3F86-4BD1-8768-A85D86206009" : "A5583F20-162C-4FF1-B013-E04B551B5BDD",
+            "3AB3875C-B4F7-46A7-841D-1A8DF95EF211" : "0FA09F9E-FA5B-468B-A4E7-4C7F50786D8F",
+            "834533D5-4527-4F91-9480-18AFF7861B24" : "12D9EA2B-0E5D-4203-8151-3A49F92CB11C",
+            "D4E134D0-6A49-4D68-A1AD-12598FC725A8" : "FD90E6BD-2F45-488B-A8A6-815C4C1D551B",
+            "66848628-F532-4FC9-AF1C-D280EA3B53AE" : "35E8DD6F-EB63-46B5-8BD4-783DB86728C8",
+            "AC7982F2-2E3B-4C7E-AA03-0D72A954E076" : "3F7F280B-82E6-433A-82AE-CE086B89D6E9",
+            "6349C30B-7D52-47BA-A157-C0D7643AB349" : "526E4E43-E6E3-4660-B387-A36E45E19AFC",
+            "AC34FA81-E901-422E-B6C9-707C33736558" : "72C7117E-BD14-4422-A448-5AD2ED2E13B2",
+            "9CDB22BD-084E-4DA7-BAB9-F267ED42378F" : "86665494-A98A-47D1-944B-C1019A4BDDEF",
+            "EEB832A7-D8E1-4B67-B5CC-1C486791DFA8" : "C6776966-5007-4978-87FE-22A507525BC0",
+            "42732F07-D283-4C3C-9E6A-7E6ED93A93EE" : "ABEC4A2D-CE20-4812-B4DA-EFF2704886A2"
+          },
+          "textStyles" : {
+            "32546116-2181-4355-A313-607A564D9B7D" : "00B1238E-E18B-4FB9-A92B-394CF51FE52D",
+            "59C3CD3B-8EF7-4EE0-AA65-9D3D13F32E41" : "4D791E88-BDB1-42A3-AA34-0D5B29FB6512",
+            "039FCDB2-79DF-4F4D-9DCE-D6C2383CC497" : "146316C3-5756-4425-B782-CEDCF1D6DEA8",
+            "1FCA2537-B68A-420C-B772-73D883B1F0DF" : "EFF3F1E5-D433-43DA-8A65-A50AD6C4C410",
+            "4F15100D-B796-472B-B361-48F009D22E91" : "BD33688B-3A11-4B87-962F-AF8288821022",
+            "079AE3E2-70F0-4F0A-BF98-EBF539385955" : "4D8CA164-51D4-4B19-90B4-FF9A1CE08B27",
+            "BEC82212-38E5-4FF3-A59C-1B602F72D3CB" : "5F9BCFD5-95FB-486D-8899-FC696262154F",
+            "8984334F-9897-4857-8E96-B85F21A32AAA" : "4B20A92E-D8BB-4E88-ABEC-7A91F3DEEF20",
+            "CC989D9C-AABC-4BB2-8DC8-A766AB1155FF" : "01C00F54-B80C-49B4-AA43-3C6F51370732",
+            "9367C973-7EDE-4CA1-A4FE-F9723AAD518A" : "F29022CC-1EC9-4C45-A357-5275C82C6664",
+            "0C48FBC6-7047-4014-A430-37CD64AA19C7" : "63ABC3CF-DC72-453D-A136-62AD1D8F47E0",
+            "7471CF23-D07E-4663-B319-856BC685BD50" : "931B988A-8ED1-40DF-A26E-C2EB4911E3D7",
+            "422C350A-931E-47FE-A467-A0DB785C1B75" : "C357619D-5D77-461B-A723-53B57CD88DB9",
+            "ECF082E2-E36A-4CDB-B2B0-91C9C7B8F4AE" : "F3B3A253-E4A8-4158-B6BB-0E52BC69C4D2",
+            "6ABC40E3-51D4-40A6-932A-E77AD0B55E5C" : "AA29C4BB-BB5B-4983-A35D-F0427ACC9B9C",
+            "E581C864-E215-4965-9669-2A0624B422D4" : "7C6C4548-1542-4C67-8797-CEB438840AC2",
+            "5232ACE0-9589-4B5A-AD3C-6138DB1BC8B6" : "1E5756BA-B72A-40D4-9CBC-C7DF1A5617EB",
+            "78EFA150-31C2-4EAC-8A64-528ED59338E5" : "FFFD6175-1EB3-4E2E-9717-47B1C7DEF4EB",
+            "948FC6E3-720C-421A-8A03-83180833094A" : "3E8770D9-70A9-48E4-BE2A-ADFC59573C48",
+            "670AC47A-DAA5-4A91-A801-58267BA7F0A1" : "962DE1B1-C43D-42A7-BF58-BE51AF6AD95B",
+            "317F7152-19DB-4047-8051-5686FB619660" : "B02AEF6D-455D-477B-AAE6-D6F084B79A70",
+            "C8BCA99A-0722-4111-AAA6-2AA2B06AFD76" : "EAA29906-D121-49CF-877F-F6559EECCD7C",
+            "58BFDA29-EA26-4F8C-83A1-450D8605D318" : "299C9A09-9A3E-4351-994E-AD8733C0DF98",
+            "D2CB010A-B804-4D09-96B2-7723332DB1F2" : "10842F29-A64E-4A3E-8E57-1B848F72BCF5",
+            "B7BA6F77-0DE6-476C-A0BD-3FAF5222130F" : "3774B9B5-13F0-43BD-B8BD-B5F458816FB4",
+            "967A64A2-29BC-4265-A4F2-CB3B63CB15DC" : "2FB10763-B080-4028-B1A6-0CDC83D31B87",
+            "6F838ECC-3E7E-4EE2-A850-57727461DC1E" : "126F882C-F8DC-4103-BAF0-E897F7A32D29"
+          },
+          "colors" : {
+            "49932AA8-665C-41BC-B043-6A97BA9AD29D" : "9900E6",
+            "9BA9AD3D-A857-40AE-81B4-0DE1AD1B7DDC" : "1E222A",
+            "355B7A96-CE6C-4226-B54F-FF75591D986F" : "0033EE",
+            "0C3A77BF-9C12-421E-8137-440CA0E45689" : "00CB87",
+            "C515115D-130D-4944-A7C2-941B7B46F1EF" : "0037A5",
+            "FE851999-BFEE-4AE1-B965-9BA209AA7DFC" : "007AE6",
+            "4E6A55E7-1039-463D-9DBB-48F3301B8214" : "001D88",
+            "36CA6FB0-8378-4DB9-8D42-7D058976E315" : "7BC1FF",
+            "A153AF3B-EB99-48E4-B2D1-29C81E7231B4" : "0088FF",
+            "32A1D448-7A44-40C0-975C-CC1A72338E70" : "002ED5",
+            "1BEB0240-D7AB-43E0-AE21-D0342B827396" : "525D75",
+            "C5B1B3E6-D6E9-4302-A495-CD7B8EB9C98D" : "09AFAF",
+            "FFA137BD-F71D-4619-B402-72FF3303712C" : "F8D90D",
+            "194AC9F2-DC85-4330-8F71-87139F69A608" : "76829E",
+            "3FEF6058-3944-496A-952C-7EE345921E5C" : "B2B9C8",
+            "8E27FE4C-40CD-4F39-97AB-1B74A3941B39" : "F43636",
+            "5CFB18FB-2D47-456E-9869-4059373BDCAB" : "004480",
+            "7913BD25-1C56-4510-95CB-92D861074730" : "EDEFF3",
+            "F81DA7A4-F44D-459A-84DA-38693BD64A7F" : "005FB3",
+            "1EBED95B-81D7-4D7F-87DB-35AD1824B00F" : "0AC8C8",
+            "132630E3-44EE-40A3-8EEC-1FD4B696A6A6" : "006CCD"
+          },
+          "layers" : {
+            "5B043184-0FC7-4818-8386-C74E8BAD62EE" : "53F11BAD-9146-484A-95D6-E76745B28879",
+            "07BC15EF-C9D6-4872-A20A-F785BBF356AE" : "F544F317-3A1D-46B3-8634-0DD0E1123F73"
+          }
+        }
+      },
+      "min_version" : 84,
+      "connected_kit" : {
+        "kit_uuid" : "A091798C-A400-4C01-A4AE-85B0C9472BD2",
+        "space_id" : "94285",
+        "version" : 0
+      },
+      "first_version" : 107,
+      "version" : 110
+    }
+  }
+}

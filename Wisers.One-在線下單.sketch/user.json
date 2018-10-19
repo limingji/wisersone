@@ -1,0 +1,83 @@
+{
+  "7549FB75-5213-4EFE-9AF5-C6CE95284EBB" : {
+    "scrollOrigin" : "{323, -1204}",
+    "zoomValue" : 0.125
+  },
+  "B57B5B75-4FFF-4F93-91B3-9C21CEA9BEB6" : {
+    "scrollOrigin" : "{549, 109}",
+    "zoomValue" : 0.125
+  },
+  "0692C017-F334-47CC-85F5-F35D31431D3B" : {
+    "scrollOrigin" : "{579, -1008}",
+    "zoomValue" : 0.5
+  },
+  "E12E9F86-774C-4540-B3B4-35EDE3F9BB2A" : {
+    "scrollOrigin" : "{1089, 49}",
+    "zoomValue" : 0.5
+  },
+  "E0588B70-7BBD-453F-A97F-E7527D3E015C" : {
+    "scrollOrigin" : "{268, -2261}",
+    "zoomValue" : 0.125
+  },
+  "71DD8172-B1C0-48A3-A7BA-3969D9367ED8" : {
+    "scrollOrigin" : "{-382, -9701}",
+    "zoomValue" : 2
+  },
+  "57E61E0D-383F-4A27-B44F-3BBF64E14AD8" : {
+    "scrollOrigin" : "{0, 0}",
+    "zoomValue" : 1
+  },
+  "4E86847C-F293-470E-B80F-966D405C9245" : {
+    "scrollOrigin" : "{442, -1015}",
+    "zoomValue" : 0.0625
+  },
+  "8A91E6B9-8878-43C6-AD52-2B45D36ACCBB" : {
+    "scrollOrigin" : "{-1046, 451}",
+    "zoomValue" : 0.5
+  },
+  "B012F625-88A3-4331-AC12-7833F1ABC06A" : {
+    "scrollOrigin" : "{309, 72}",
+    "zoomValue" : 0.25
+  },
+  "C15983EF-521A-4240-9EBA-19871FE9778D" : {
+    "scrollOrigin" : "{367, 596}",
+    "zoomValue" : 0.25
+  },
+  "8C75EEC2-F1B5-4117-AE7D-1ED159FF0C96" : {
+    "scrollOrigin" : "{-1100, -7798}",
+    "zoomValue" : 0.5
+  },
+  "963BB043-5DE6-49CC-B58B-C0BF391A30F9" : {
+    "scrollOrigin" : "{1757, 611}",
+    "zoomValue" : 1
+  },
+  "169F3C6F-478E-411D-B743-59A283CE95EE" : {
+    "scrollOrigin" : "{294, -177}",
+    "zoomValue" : 0.125
+  },
+  "document" : {
+    "pageListHeight" : 170,
+    "cloudShare" : null,
+    "pageListCollapsed" : 0
+  },
+  "C31B89BC-EE26-440C-A539-985417626251" : {
+    "scrollOrigin" : "{657, 1434}",
+    "zoomValue" : 1
+  },
+  "E17905B7-8F7F-4E36-8E77-9E5DCF676DDC" : {
+    "pageListHeight" : 132.5,
+    "cloudShare" : null
+  },
+  "701C9AC1-9A54-4EE7-9CCF-C98BF784A21B" : {
+    "pageListHeight" : 116.5,
+    "cloudShare" : null
+  },
+  "0DE1AAD9-3931-42A3-B17D-065BAD9E7C18" : {
+    "scrollOrigin" : "{1079, 397}",
+    "zoomValue" : 0.25
+  },
+  "CE5C44B0-556D-48CC-95A1-606BF47D7AD2" : {
+    "scrollOrigin" : "{-728, -11658}",
+    "zoomValue" : 0.5
+  }
+}

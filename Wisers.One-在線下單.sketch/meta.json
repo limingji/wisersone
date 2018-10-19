@@ -1,0 +1,1232 @@
+{
+  "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+  "build" : 67048,
+  "version" : 112,
+  "fonts" : [
+    "MicrosoftYaHei-Bold",
+    "MicrosoftYaHeiLight",
+    "HelveticaNeue-Bold",
+    "PingFangTC-Regular",
+    "Helvetica",
+    "Gotham-Bold",
+    "Roboto-Light",
+    "LastResort",
+    "PingFangHK-Light",
+    "PingFangHK-Semibold",
+    "PingFangHK-Medium",
+    "PingFangTC-Semibold",
+    "MicrosoftYaHei",
+    "PingFangHK-Regular",
+    "FontAwesome",
+    "Roboto-Regular",
+    "Roboto-Bold"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "appVersion" : "52.1",
+    "build" : 67048,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
+  "pagesAndArtboards" : {
+    "CE5C44B0-556D-48CC-95A1-606BF47D7AD2" : {
+      "name" : "PKG-V6",
+      "artboards" : {
+        "B795D0AB-C7B5-4977-9C33-527452558578" : {
+          "name" : "HK-WE6-v6-detail Copy"
+        },
+        "8D174F7A-F5AC-41BE-B284-87D659F0F826" : {
+          "name" : "HK-Industry-v5.1-detail-selected"
+        },
+        "6721177F-40CA-450C-AEAC-F63E797F8A55" : {
+          "name" : "HK-WiseSocial-v5.1-detail-selected"
+        },
+        "57D4DEEA-FB79-4079-87A0-BD4EC7600FAF" : {
+          "name" : "HK-WiseSocial-v5.1-detail-purchased"
+        },
+        "6B6C3C19-439F-4648-B05D-5721CAC036B7" : {
+          "name" : "HK-WiseSocial-v5.1-detail-selected-2"
+        },
+        "6F722859-3762-4564-B76A-227FEB85C9C3" : {
+          "name" : "HK-WE6-v6-detail"
+        },
+        "E4E83AE1-5C79-4843-9AB2-E16D7B124783" : {
+          "name" : "HK-WiseSocial-v5.1-detail-selected-both"
+        },
+        "F070203B-CD70-4B66-9BCB-C577A3DAF8CB" : {
+          "name" : "HK-WE6-v6-detaill-hover-package"
+        },
+        "DD9113C5-3BF2-4DCF-BCB2-34EDB9B7B40B" : {
+          "name" : "HK-WE6-v6-detaill-hover-module-selected"
+        },
+        "5DEC14C4-4BCF-4BA5-A8F4-A78551838858" : {
+          "name" : "HK-WiseSocial-v5.1-detail"
+        },
+        "5FB0F17B-904E-4C52-9CCC-EC5532068B38" : {
+          "name" : "HK-Industry-v5.1-detail"
+        },
+        "2BE40472-93B7-472F-BDB2-CFFDBF9C5FBE" : {
+          "name" : "HK-WiseSocial-v5.1-detail-hover"
+        },
+        "5F76C036-2216-41C3-A2EB-89B3A782B68D" : {
+          "name" : "HK-Search-v5-detail"
+        }
+      }
+    },
+    "0692C017-F334-47CC-85F5-F35D31431D3B" : {
+      "name" : "20th welcome page",
+      "artboards" : {
+        "021DCBA2-8855-4363-9AE8-E11415006CFA" : {
+          "name" : "20th-welcome-page-final-step2"
+        },
+        "D61C2038-6833-42BC-9882-E751309863E3" : {
+          "name" : "20th-welcome-page-final"
+        },
+        "78D26FB5-C061-4FCD-A5A3-786B74E725FB" : {
+          "name" : "20th-welcome-page-final-step1"
+        }
+      }
+    },
+    "169F3C6F-478E-411D-B743-59A283CE95EE" : {
+      "name" : "Flow",
+      "artboards" : {
+        "63FCCD7B-9EA8-45A2-8F3D-CE1959B34DAA" : {
+          "name" : "Order-Flow"
+        },
+        "5B04603E-EBD4-4203-B292-3EDAAC48A5B4" : {
+          "name" : "Module-Status Copy"
+        },
+        "9E47C699-D4C1-4A3C-A47F-FCE96D32CD8F" : {
+          "name" : "Order flow"
+        },
+        "43EC6A54-7437-49CC-A20E-ACA9343E51B9" : {
+          "name" : "Report-Order-Flow"
+        },
+        "F31BABBF-6D34-4CB2-A36A-02C57C0DD6D9" : {
+          "name" : "Online-Purchase-Structure2"
+        },
+        "D5795B8D-9606-49D4-854F-5EE24CD82FD6" : {
+          "name" : "Online-Purchase-Structure"
+        }
+      }
+    },
+    "E12E9F86-774C-4540-B3B4-35EDE3F9BB2A" : {
+      "name" : "入口",
+      "artboards" : {
+        "41EEB885-AAD9-4309-BB4A-E8793D3188A3" : {
+          "name" : "下單入口-module-page"
+        },
+        "0BD6A5F5-4046-4364-94E2-D25B6F807E1C" : {
+          "name" : "在線下單入口-header-bar-v2"
+        },
+        "DF1EA065-190E-4EA6-B393-8676AD0CC8D9" : {
+          "name" : "下單入口-details-page"
+        }
+      }
+    },
+    "71DD8172-B1C0-48A3-A7BA-3969D9367ED8" : {
+      "name" : "Symbols",
+      "artboards" : {
+        "0D7D122C-2DD0-43EB-BE7C-182A90D9A31E" : {
+          "name" : "color-palette\/blue-8"
+        },
+        "D4525FD8-F716-4DB1-BA51-65C7B49CFFF5" : {
+          "name" : "color-palette\/red-8"
+        },
+        "45B7B905-E833-4A4F-B954-5D31AF69DEF7" : {
+          "name" : "Module-icon\/lock"
+        },
+        "B0B5DE53-AB32-410E-AE7B-3ACD8AB07BE1" : {
+          "name" : "icon\/package"
+        },
+        "DD8B3A5D-C41F-4356-87E6-71CBCABA6999" : {
+          "name" : "ModuleButton\/Standard-hover"
+        },
+        "1DE68715-E3CF-4864-ABEC-599B941C8042" : {
+          "name" : "article\/card\/default"
+        },
+        "CC2052A8-C58E-490E-91E4-02B107E3FC07" : {
+          "name" : "color-palette\/blue\/blue-7"
+        },
+        "DF6F6D90-DEB6-40F1-BA8A-25CB4E5F04D5" : {
+          "name" : "button\/Button-medium-with-icon-2-mobile"
+        },
+        "F53C2915-263B-4A18-BC4B-9EE60853DEF4" : {
+          "name" : "components\/nav\/CN-footer"
+        },
+        "A4C74381-BEFA-43B7-8B22-B449C730CD38" : {
+          "name" : "icon\/action\/tour"
+        },
+        "7C9145CE-48CD-4751-ACB7-4A787949D46D" : {
+          "name" : "icon\/tour"
+        },
+        "DC8E59BE-8D40-43F3-8D8F-6D59EA418E39" : {
+          "name" : "components\/tooltip"
+        },
+        "EDCD0AFB-8525-4EE4-9EEE-AD5AED78222B" : {
+          "name" : "icon\/pack"
+        },
+        "3B75266A-160F-4277-A056-B71434A7CA2D" : {
+          "name" : "color-palette\/pink-1"
+        },
+        "0250D166-60F4-4B8B-A818-322BEAC0C88A" : {
+          "name" : "color-palette\/color-container\/circle"
+        },
+        "1C72DD7F-5039-4F90-9E30-C87263171B56" : {
+          "name" : "Logo\/Product\/Module\/Intelligence"
+        },
+        "0B0D2863-E21E-4207-8E49-5DADFD984E33" : {
+          "name" : "pic\/grids-04"
+        },
+        "581F43BA-9B1F-4305-872A-5F3AA3D90C80" : {
+          "name" : "color-palette\/yellow-8"
+        },
+        "08E0EE66-D2E4-4A3C-B4B4-6A26FD2E3549" : {
+          "name" : "color-palette\/teal-3"
+        },
+        "5FFE9198-1064-4623-8B22-0E3DB5A63254" : {
+          "name" : "logo\/WisersOne"
+        },
+        "43DDE9C9-A7BB-49BF-9A08-A22EF769C3A6" : {
+          "name" : "tab\/module-tab-collapse"
+        },
+        "F76DC8AD-33EA-4DB0-A21B-44263396D2E7" : {
+          "name" : "icon\/action\/locked"
+        },
+        "3FA1749F-FBD4-4D5F-BAB8-3F8DF25B6CB8" : {
+          "name" : "color-palette\/red-1"
+        },
+        "F3ADCEA8-2FE0-4229-ADED-83FB5A86DB40" : {
+          "name" : "color-palette\/violet-5"
+        },
+        "FCA46FAA-1DE0-4AE9-A835-B724731B8441" : {
+          "name" : "color-palette\/lime-6"
+        },
+        "E399880D-DEAC-4998-B756-C5E94C39F10E" : {
+          "name" : "color-palette\/pink-8"
+        },
+        "737CAB28-04DE-4DA0-8672-DAF61DE5549A" : {
+          "name" : "color-palette\/lime-2"
+        },
+        "CE04475A-52EC-414E-849A-3283F1BEBAE9" : {
+          "name" : "ModuleButton\/Trial-hor-processing"
+        },
+        "BDB26A8F-B801-4CD9-A559-5A10647EEBF1" : {
+          "name" : "celebrate\/paper-3"
+        },
+        "476F8854-F177-4418-89D1-D37B89E78DD4" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "7ADEF695-4CC6-434C-982D-74DCFB8734F8" : {
+          "name" : "color-palette\/teal-5"
+        },
+        "9265559D-1C03-4907-9B3B-B620A3295C40" : {
+          "name" : "color-palette\/blue-6"
+        },
+        "49A53985-D9A6-4640-9BDB-C6DBF16B8D13" : {
+          "name" : "form\/checkbox"
+        },
+        "FC940AAE-3797-48D9-BC28-25E16AD4ACDF" : {
+          "name" : "icon\/form\/switches-off"
+        },
+        "DFD063D7-9DD2-48D4-B860-1F6A9FAC3616" : {
+          "name" : "icon\/arrow\/up\/circle"
+        },
+        "54E7BB92-5D67-4E2B-9183-B87CFFF95997" : {
+          "name" : "color-palette\/grey\/grey-1"
+        },
+        "1636A33E-A743-46BF-940E-1917934D83D2" : {
+          "name" : "package\/HK\/WE6\/overview"
+        },
+        "EC1266D5-30B4-48DD-90D5-065BDEA851D7" : {
+          "name" : "icon\/media\/wechat"
+        },
+        "404D7C0C-62C3-4DC6-B441-555206350AE5" : {
+          "name" : "button\/Button-medium-with-caption-2"
+        },
+        "754D64A2-1EE3-4BBC-B7DE-E70413F31AE0" : {
+          "name" : "Divider \/ Horizontal Line - Grey"
+        },
+        "116EACC7-8A02-47A6-96B8-054ECE5C6ABB" : {
+          "name" : "color-palette\/green-2"
+        },
+        "E71E9598-041B-4FCD-9312-D5ED7E9BE3E1" : {
+          "name" : "icon\/logout"
+        },
+        "C767620B-9391-403B-9AD8-D96380B8F83E" : {
+          "name" : "Module-icon\/hotNews"
+        },
+        "14468DA3-2B7A-4F91-9364-231398EC92F2" : {
+          "name" : "color-palette\/violet-9"
+        },
+        "34AE99F7-9EE3-427F-932E-543294FBBB41" : {
+          "name" : "icon\/arrow\/right\/circle"
+        },
+        "EE4A1022-6D87-49CA-B16F-C5C76DFF0CAE" : {
+          "name" : "color-palette\/cyan-3"
+        },
+        "E90A5780-EF5B-4F56-A9BA-A01EE5567C2B" : {
+          "name" : "color-palette\/yellow-3"
+        },
+        "E203C2CD-712D-4E2E-B819-05074AA0E195" : {
+          "name" : "icon\/preview"
+        },
+        "DD638AC0-9613-47D7-AD81-19EAEFD6AF09" : {
+          "name" : "toolbar\/CN-footer"
+        },
+        "067F915F-BC16-4A00-987C-4BCA32DEDB6B" : {
+          "name" : "Module-icon\/trackingAnalysis"
+        },
+        "F6EB3F33-BCC7-4D4D-AF77-A6B8B6EC9CC8" : {
+          "name" : "color-palette\/cyan-1"
+        },
+        "AA02CE40-AC90-486F-A822-92C17016BD2E" : {
+          "name" : "button\/Button-medium-with-caption-mobile"
+        },
+        "4116D31A-0707-483B-A7C8-19340BD3AA56" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "BD059FB4-CA92-4BF6-9A68-3516E39DC7C8" : {
+          "name" : "nav\/nav-side-left-collapse"
+        },
+        "C6F0A011-9900-4A26-B1D8-903F22B55D26" : {
+          "name" : "components\/nav\/module-header"
+        },
+        "4F579084-E8D0-4CE4-90F3-CECBF5360218" : {
+          "name" : "Cursor\/Arrow"
+        },
+        "AC64861E-CC7A-4B82-BCC9-DE7CFB188089" : {
+          "name" : "ModuleButton\/Trial-hor-status"
+        },
+        "69430A35-447D-49DF-BB5A-7B701432A360" : {
+          "name" : "icon\/user"
+        },
+        "05EE3E2C-86EA-403D-8387-3B394D1968C8" : {
+          "name" : "color-palette\/teal-8"
+        },
+        "F62D3C08-2BF0-4A0A-A895-6A347DDDAC7A" : {
+          "name" : "button\/Button-medium-with-icon-2-hk"
+        },
+        "D9EDA9FD-3976-4287-A63B-58787B1024EB" : {
+          "name" : "flow-block-to-do"
+        },
+        "907EF229-794F-4F91-B164-60E4938E433B" : {
+          "name" : "article\/card\/no-image"
+        },
+        "59DFEECA-78AF-40FA-87E5-2067151FAFEF" : {
+          "name" : "icon\/locked"
+        },
+        "D8A78A5B-DAE3-4BF0-9C56-C5CB1CA8EE30" : {
+          "name" : "icon\/media\/youtube"
+        },
+        "338B50D2-30A3-42D1-B3A6-F1BADBCFC958" : {
+          "name" : "color-palette\/violet-8"
+        },
+        "D47913C1-24E3-44B2-B74E-82C09924E2E4" : {
+          "name" : "icon\/loading"
+        },
+        "5A83C1C5-F983-4282-8EA1-3553C687FAA1" : {
+          "name" : "components\/purchase-mode-switch"
+        },
+        "1432067B-3E2D-4C2D-B321-B71F4EAAEDB3" : {
+          "name" : "icon\/action\/notification"
+        },
+        "4F133F1F-120B-4D79-BD7C-E456AA2DE7C5" : {
+          "name" : "Line\/red\/Vertical Connection"
+        },
+        "4CF49160-207D-47AC-9B33-A868200F11E0" : {
+          "name" : "icon\/check-circle"
+        },
+        "C4239EC1-DD9E-4F2E-B25B-D71808B6F739" : {
+          "name" : "Module-icon\/dataCenter"
+        },
+        "49073C62-C475-40F6-B5EA-FC6E9B56111D" : {
+          "name" : "color-palette\/blue\/blue-5"
+        },
+        "F10FA1A1-6D70-43EF-BECE-F6F6C5ADE8C1" : {
+          "name" : "color-palette\/cyan-9"
+        },
+        "CA8BDCD0-B45C-4A8D-AA67-25D3A3DE02D1" : {
+          "name" : "Flow\/item-to-do"
+        },
+        "F437C382-296B-4870-9601-CDC5B949E60D" : {
+          "name" : "components\/purchase-mode-switch"
+        },
+        "19F546A8-AD43-4577-99C3-8AC331D06205" : {
+          "name" : "icon\/action\/download"
+        },
+        "1D72E3F9-51D4-4F46-91A0-AC4E1FE0C23D" : {
+          "name" : "button\/Button-small"
+        },
+        "0AA10061-C5B7-4116-9454-A3348BD9EACA" : {
+          "name" : "color-palette\/grey-6"
+        },
+        "6215BE7B-0028-4265-BC7C-04456C984C7D" : {
+          "name" : "color-palette\/blue-7"
+        },
+        "D18C80AE-E99B-4E8C-BA29-FE4C9D7D3447" : {
+          "name" : "icon\/badges\/bot"
+        },
+        "5D9676ED-C688-497A-86B8-14489D803A2B" : {
+          "name" : "toolbar\/mobile-productSwitchHeader"
+        },
+        "00176454-BDB2-480D-BC6B-DCC3BB05E73E" : {
+          "name" : "icon\/tracking-white"
+        },
+        "8AA9E080-38F0-4AEF-BFCF-C31B4BA05CC0" : {
+          "name" : "components\/guide\/step"
+        },
+        "3943C6BA-1B9E-41FA-8469-754A9FAE5A06" : {
+          "name" : "Logo\/Corporation\/Horizontal\/EN-with-tagline-20th"
+        },
+        "BDAD0B97-16E0-4220-BBB5-3A4329E79004" : {
+          "name" : "package\/WE6\/overview"
+        },
+        "77ADDCD4-AD7E-4A50-BF53-332CE3669DE7" : {
+          "name" : "color-palette\/blue-5"
+        },
+        "A225D3C3-641E-49B3-B351-BC4B2A524C41" : {
+          "name" : "table\/item\/sub-module-en"
+        },
+        "9BFFCC73-12EE-4E31-803E-5550590CAC11" : {
+          "name" : "color-palette\/grey\/grey-9"
+        },
+        "89ACBFD8-AD61-4F90-B852-FEFB3C7D075E" : {
+          "name" : "color-palette\/grey\/grey-9"
+        },
+        "D04742EF-A245-4031-9AD0-79E09F1A032E" : {
+          "name" : "icon\/archive"
+        },
+        "D02F855C-CA57-430E-BF06-FA97F44708AF" : {
+          "name" : "icon\/badge\/20th-gift"
+        },
+        "7A9BFA8B-9DB6-42D5-A761-27E6513AFA6B" : {
+          "name" : "icon\/action\/logout"
+        },
+        "DA99504F-DB07-4784-B4F4-09FAEC3F2B4C" : {
+          "name" : "color-palette\/cyan-6"
+        },
+        "13F723E4-D881-4D44-B501-4484F6480386" : {
+          "name" : "color-palette\/orange-1"
+        },
+        "2A0CC75D-DE53-44AA-B7AB-AC21D2F881FB" : {
+          "name" : "icon\/alert\/error"
+        },
+        "F584C5AD-ECAA-4795-A10F-1465AFF33124" : {
+          "name" : "color-palette\/teal-1"
+        },
+        "5411513A-8B86-4F07-81D1-39D493CA8820" : {
+          "name" : "color-palette\/yellow-7"
+        },
+        "7CCBE0D8-B967-48C2-BC8B-B265E81D7769" : {
+          "name" : "color-palette\/grey-3"
+        },
+        "00DC8597-D384-4756-B219-5033AAAF2278" : {
+          "name" : "color-palette\/teal-4"
+        },
+        "EE506B2F-53CF-445B-BD75-42F5454EA711" : {
+          "name" : "Module-icon\/ReportCenter"
+        },
+        "6D6ECF99-DE00-4955-8ABD-6CE223D8EFAA" : {
+          "name" : "Logo\/Product\/Module\/trackingAnalysis"
+        },
+        "B7BD8F3A-665E-43A0-86BC-EA138439D045" : {
+          "name" : "article\/card\/highlight"
+        },
+        "EABC4FA6-A728-4649-9544-1EAA35AE6733" : {
+          "name" : "color-palette\/grey-1 Copy 1"
+        },
+        "E94E4886-75F4-437F-82E5-58D5F61A3822" : {
+          "name" : "icon\/notification"
+        },
+        "01920C1C-D069-4C94-AFFA-6F4A0D6EFBD4" : {
+          "name" : "Module-icon\/dataCenter-line"
+        },
+        "A0AC7D96-8002-4275-87BF-174FBE5D4E53" : {
+          "name" : "Line\/red\/Straight Connection"
+        },
+        "E1875B4A-EB50-45C4-990F-61227C607111" : {
+          "name" : "ModuleButton\/Standard"
+        },
+        "000EB7FC-A273-40C6-8588-1B93613FED24" : {
+          "name" : "color-palette\/red-3"
+        },
+        "942D16F0-3AAC-429B-9AD4-5D6448DCA4ED" : {
+          "name" : "Logo\/Product\/Module\/hotNews"
+        },
+        "D7916F31-5299-435D-ADD0-83D772F3D2C3" : {
+          "name" : "color-palette\/default"
+        },
+        "F2C0046C-A3A3-47C9-B1EC-4E9707532292" : {
+          "name" : "Logo\/Product\/Module\/WiseSearch"
+        },
+        "A583638E-4527-4694-802F-7CB378DA55FE" : {
+          "name" : "icon\/media\/facebook"
+        },
+        "CF769299-40D7-46F2-834A-A43CBC5405B3" : {
+          "name" : "color-palette\/red\/red-5"
+        },
+        "BE433118-B74F-4D78-BE25-B354F436D2E6" : {
+          "name" : "color-palette\/lime-4"
+        },
+        "ED632ECC-DB5C-4A49-AA2D-D51D4E8B58D4" : {
+          "name" : "color-palette\/violet-1"
+        },
+        "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
+          "name" : "icon\/bookmark"
+        },
+        "ABCFEDF0-0658-413E-9113-36846D731D46" : {
+          "name" : "sentiment\/line\/positive"
+        },
+        "D43CA662-E16D-4938-AEEB-6B9131FDC297" : {
+          "name" : "Logo\/Product\/Module\/Analytics Copy 3"
+        },
+        "A01E0A3B-C640-4AA9-B8EB-691914CB7F3A" : {
+          "name" : "Module-icon\/unlock"
+        },
+        "C0EAEE87-D4CE-46BD-8D6E-65A1C70A965D" : {
+          "name" : "color-palette\/violet-3"
+        },
+        "7EDE83F5-FF8D-436F-8E9D-D8CD9FD1DFBD" : {
+          "name" : "toolbar\/mobile-header-bar"
+        },
+        "3C5F10F2-A509-4AC4-B483-62B98993CB1C" : {
+          "name" : "color-palette\/teal-7"
+        },
+        "7AF21896-E707-4A09-A5C0-78D98F0CEEA0" : {
+          "name" : "components\/purchase-mode-switch"
+        },
+        "5AE943C5-9A48-4A52-BD5D-03655366D238" : {
+          "name" : "card\/default"
+        },
+        "3871745F-8997-4CE7-9AA4-CE0AD25070DD" : {
+          "name" : "Cursor\/standard"
+        },
+        "35011066-C1C9-4C55-8C8F-FA36C5F9FA78" : {
+          "name" : "Cursor\/Arrow-unclickable"
+        },
+        "F8B67E10-6B66-49FC-B121-CD7111F6A053" : {
+          "name" : "celebrate\/paper-1"
+        },
+        "51FD540A-78C3-4BFA-BF3C-C885DF6EAAFD" : {
+          "name" : "color-palette\/orange-9"
+        },
+        "20E6E4AE-F507-434C-BE0A-C46F767953F0" : {
+          "name" : "color-palette\/blue\/blue-7"
+        },
+        "48CE421A-FF61-49CA-B64D-D9BCDB62026B" : {
+          "name" : "color-palette\/green-6"
+        },
+        "4F7178B5-39A9-4FFC-A217-9C753AF1B189" : {
+          "name" : "color-palette\/blue-4"
+        },
+        "72849610-4BCF-4BCE-99F0-A12018DE6B9F" : {
+          "name" : "button\/Button-medium-with-icon-2"
+        },
+        "620B5498-450E-4083-ABF4-93BFD89CED5A" : {
+          "name" : "color-palette\/blue-3"
+        },
+        "A4211525-D6DC-4071-9614-8CCA135D6BEC" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "32D6D2D4-D77C-4A51-814A-31F846CA2E9C" : {
+          "name" : "color-palette\/yellow-9"
+        },
+        "FCDD0ED6-723B-4839-98AF-F1D49ED34863" : {
+          "name" : "color-palette\/violet\/violet-6"
+        },
+        "90F85547-C5CC-47AF-B9B7-1A0EDDE27DDA" : {
+          "name" : "panel\/top-header-en"
+        },
+        "94EF8A01-746D-43DA-A9BE-880D544CE997" : {
+          "name" : "icon\/entrance"
+        },
+        "4125C8EB-58F9-4C9A-8CD9-2E07614BCBAB" : {
+          "name" : "color-palette\/blue\/blue-5"
+        },
+        "EA067EB2-3D71-4BB1-A8EC-CAD4D0B812A8" : {
+          "name" : "icon\/action\/language"
+        },
+        "8DEBDD85-8C35-4ABD-A509-B5199A59D9F4" : {
+          "name" : "package\/HK\/IndustryNews\/overview"
+        },
+        "95F11A88-0BEA-4D1D-9FCF-5C4E81F00DC1" : {
+          "name" : "3D\/text\/0"
+        },
+        "C3FDDFFF-E1B6-4DD7-AEB2-7123850FDDEF" : {
+          "name" : "icon\/play"
+        },
+        "87EFF2D2-308F-4873-88A7-A00924C6A12B" : {
+          "name" : "ModuleButton\/20th"
+        },
+        "030AB92E-8569-4423-BF7F-CB8F41FD1BA2" : {
+          "name" : "icon\/info"
+        },
+        "5DA86EAE-EDF5-4FF9-BDEB-454AAA9F1A21" : {
+          "name" : "Module-icon\/highlight"
+        },
+        "14314B4B-BD23-4CD0-9581-A36D65F50A9A" : {
+          "name" : "icon\/tick"
+        },
+        "F729A891-B1E4-4E31-9579-C301263770E1" : {
+          "name" : "color-palette\/pink-6"
+        },
+        "90A03143-44F5-4470-A1F6-36947BDD0228" : {
+          "name" : "icon\/largest"
+        },
+        "046EEB40-56A7-4202-995D-75E6F69AD1F5" : {
+          "name" : "icon\/action\/setting"
+        },
+        "839EA486-2F55-423D-B0CE-4417C7409E85" : {
+          "name" : "Line\/black\/Curved Connection 2"
+        },
+        "423811C6-E6AA-406D-B902-9E1EDEA60D3A" : {
+          "name" : "ModuleButton\/Trial-ver"
+        },
+        "533E0CC9-0797-4218-AC86-B5915DC2C969" : {
+          "name" : "icon\/search"
+        },
+        "5D578346-47D5-4E97-98F7-B211A6AEB3D5" : {
+          "name" : "package\/WiseSearch\/overview"
+        },
+        "25373C62-AEC4-40F7-A97D-7FE7C720A61D" : {
+          "name" : "icon\/badge\/20th-gift"
+        },
+        "CCCDBF03-ED24-40A6-8815-60193D40EE4E" : {
+          "name" : "Logo\/Product\/Module\/dataCenter"
+        },
+        "6085B15A-9FD1-46E8-9EA7-390A3EC36BF2" : {
+          "name" : "celebrate\/paper-2"
+        },
+        "813A899A-181E-456F-94E3-8628EAD12C84" : {
+          "name" : "Line\/red\/Curved Connection 2"
+        },
+        "B6EAB7F5-37DE-4735-818A-DEFC5706D16D" : {
+          "name" : "table\/item\/module-title-en"
+        },
+        "6084E9BD-4867-440E-9D61-8F053565A1AC" : {
+          "name" : "color-palette\/grey\/grey-9"
+        },
+        "8032AAA1-3E81-45EF-AF4C-814C2DDDEF3F" : {
+          "name" : "color-palette\/pink-5"
+        },
+        "2F49EDF2-E20C-430E-AA9B-1B680C702A01" : {
+          "name" : "color-palette\/grey-7"
+        },
+        "F3E087E5-700B-4844-BF51-F1BBF14D05F8" : {
+          "name" : "color-palette\/indigo-4"
+        },
+        "A19976CF-1D63-46F0-BBFC-71E5F2BF6450" : {
+          "name" : "article\/card\/sns-no-image"
+        },
+        "03B1A08B-5391-462E-833B-759A798B475B" : {
+          "name" : "color-palette\/lime-1"
+        },
+        "C04DD0D6-3C0E-4EE4-9D4F-0D3CEA8DB5E8" : {
+          "name" : "color-palette\/pink-2"
+        },
+        "CA44D5FC-4CBD-4A86-8A67-4CA06455D4E5" : {
+          "name" : "Module-icon\/alertCenter"
+        },
+        "09C40985-FA28-47D9-B9E2-69A00A55D2DF" : {
+          "name" : "icon\/form\/switches-on"
+        },
+        "05A987DE-00DB-4514-BC53-569C15CC2179" : {
+          "name" : "color-palette\/grey\/grey-2"
+        },
+        "A99387E3-511C-4A77-A481-FF809202DB9C" : {
+          "name" : "color-palette\/yellow-2"
+        },
+        "43EAD416-CD74-4EEF-AEDA-673EA9E5F2B8" : {
+          "name" : "Module-icon\/hotNews"
+        },
+        "C04E838C-6DE6-45F3-A392-A1353279A36E" : {
+          "name" : "button\/Button-order-with-caption"
+        },
+        "2FF09395-4C9A-4202-B8F8-E06BB9EB3CBA" : {
+          "name" : "card\/shadow"
+        },
+        "45144380-6F6C-4261-B8A7-37FEFBCDC5DF" : {
+          "name" : "color-palette\/grey-9"
+        },
+        "1F540287-342E-4B6A-896A-2DA96840AAC0" : {
+          "name" : "icon\/arrow\/left\/circle"
+        },
+        "A7D37789-6716-4D92-8070-E3803BB61B4E" : {
+          "name" : "ModuleButton\/Trial-hor-2"
+        },
+        "11ADB749-AF62-47F5-8DEF-2D12EBA8249B" : {
+          "name" : "package\/IndustryNews\/overview"
+        },
+        "D99B2361-DE41-4221-A6A2-EA4BD209BA14" : {
+          "name" : "ModuleButton\/Trialing"
+        },
+        "FE851DD1-54EE-4294-87DD-EA3F643B27D5" : {
+          "name" : "icon\/action\/setting"
+        },
+        "C4FFFB95-CD6A-48D9-874F-E5F7FF3CA31A" : {
+          "name" : "color-palette\/blue-1"
+        },
+        "867D1687-A65F-4C62-B7B5-6C7235CA4322" : {
+          "name" : "components\/tooltip-with-tab"
+        },
+        "854052AA-1728-4728-9FE7-2A2FD70AA202" : {
+          "name" : "components\/guide\/description"
+        },
+        "E983B477-5B09-4DC6-B3EE-C359DFECDB7E" : {
+          "name" : "nav\/folder_title"
+        },
+        "8F5D3318-DB46-4C1B-B1B0-7203EE63CF22" : {
+          "name" : "color-palette\/lime-7"
+        },
+        "6BE428C1-D45A-4DBA-BEB8-C9EE750FC29C" : {
+          "name" : "color-palette\/orange-4"
+        },
+        "64810090-715B-4D58-B15B-049C0FA90896" : {
+          "name" : "color-palette\/color-container\/round"
+        },
+        "CC48A74C-9ED5-406C-8178-B1F1D7AE1A3C" : {
+          "name" : "color-palette\/indigo-3"
+        },
+        "445EB15C-95F6-47E4-8B9E-91ADCBF96760" : {
+          "name" : "icon\/warning"
+        },
+        "08511AB6-C0D2-452F-B3E0-14792D63353C" : {
+          "name" : "color-palette\/orange-3"
+        },
+        "C63ACC76-36F8-4122-BD56-9CEEB4B3CD5C" : {
+          "name" : "color-palette\/grey-4"
+        },
+        "68CBA7C2-385A-4C9A-8A9B-E8A592003590" : {
+          "name" : "ModuleButton\/Trial-hor-hover"
+        },
+        "3F088995-4AE0-4CD1-94ED-F967D7A06337" : {
+          "name" : "ModuleButton\/Trial-hor-no-btn"
+        },
+        "60F120FE-9E36-4936-93DE-E7AECB504E40" : {
+          "name" : "components\/Button\/Toggle\/middle"
+        },
+        "280C2554-60FE-4166-9105-8092B601358F" : {
+          "name" : "color-palette\/pink-7"
+        },
+        "6104262E-0939-4CD3-94DF-F5AC8F565618" : {
+          "name" : "toolbar\/productSwitchHeader"
+        },
+        "B306EDE3-2FAF-4794-90B8-80682B169E7B" : {
+          "name" : "color-palette\/grey-1"
+        },
+        "E13FBB50-1B57-4AD1-AA3E-2F427003AD7D" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "49272FCD-4716-4DDD-A7E7-2987944C5ED3" : {
+          "name" : "panel\/top-header-3"
+        },
+        "1AD57489-EB02-412E-8E00-9D489ACFF209" : {
+          "name" : "flow-block"
+        },
+        "C209905A-9797-4924-94E4-8F7F839D3EC1" : {
+          "name" : "color-palette\/cyan-7"
+        },
+        "2728435C-5905-483E-A675-B6D028C1855C" : {
+          "name" : "Logo\/Product\/Module\/reportCenter"
+        },
+        "95F85717-6826-4E80-BC45-8109BF682200" : {
+          "name" : "color-palette\/grey\/grey-9"
+        },
+        "BA574BAD-670A-4DE7-BA84-F3CC65E06C93" : {
+          "name" : "color-palette\/pink-9"
+        },
+        "068D46AE-46FC-4567-B917-8BC465B18C0D" : {
+          "name" : "color-palette\/violet-7"
+        },
+        "252A54A3-8D46-4838-8718-CFC923DA0DB3" : {
+          "name" : "color-palette\/lime-3"
+        },
+        "83B3FA8A-14CA-4B01-B32E-493A6E948154" : {
+          "name" : "color-palette\/black"
+        },
+        "81F155C8-FFFB-4727-A220-27E21E072FD3" : {
+          "name" : "Module-icon\/WiseSearch"
+        },
+        "573174CF-EB8D-49D7-B5A9-6AA4C6464176" : {
+          "name" : "icon\/tick"
+        },
+        "BDC90EB0-1CEC-4C3E-80F8-988604B272E5" : {
+          "name" : "color-palette\/indigo-8"
+        },
+        "57355409-8489-4DC0-BB18-586AC3F34623" : {
+          "name" : "color-palette\/indigo-5"
+        },
+        "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "CE5DCACD-6B9B-42F8-A4CF-7DEF0437C9BC" : {
+          "name" : "color-palette\/grey-9"
+        },
+        "4EBC9DC2-DE31-42E4-8907-59A482B832F7" : {
+          "name" : "icon\/cart"
+        },
+        "17B6D968-DA05-437A-A760-7BD171B38B72" : {
+          "name" : "Line\/red\/Curved Connection 1"
+        },
+        "FBE5D87E-FEE1-45B6-AC8E-30FC145C1F49" : {
+          "name" : "icon\/uncheck-circle"
+        },
+        "FDA858E7-F9A4-4E95-AC65-839A46480C22" : {
+          "name" : "color-palette\/grey-5"
+        },
+        "E0190D0E-CCA9-4AFE-A63C-DC1FAB6606EE" : {
+          "name" : "form\/checkbox-en"
+        },
+        "5C50C2C8-39B8-4AF7-9C10-7D6B9E137573" : {
+          "name" : "text"
+        },
+        "5EB24648-0311-404A-8A60-87920D47EC61" : {
+          "name" : "icon\/arrow\/down\/standard"
+        },
+        "50D75243-81B6-4BED-A98F-3E75E9A8E54C" : {
+          "name" : "color-palette\/graphA-02"
+        },
+        "B8176A99-CBD3-4C99-A44D-912B0FEBD9BE" : {
+          "name" : "color-palette\/violet-6"
+        },
+        "28A56B80-350F-471D-87F3-B339D54EBA74" : {
+          "name" : "Line\/black\/Straight Connection"
+        },
+        "094802E9-12AC-4E8A-9736-F27881CF637A" : {
+          "name" : "color-palette\/indigo-2"
+        },
+        "0C2B06B2-B438-45EB-BE41-BDF6588EA62E" : {
+          "name" : "color-palette\/violet-2"
+        },
+        "FB72F246-08CF-4B38-BF50-D02C2123B9AE" : {
+          "name" : "color-palette\/teal-6"
+        },
+        "39EEE99A-D811-48B8-B007-EEADF082A00D" : {
+          "name" : "button\/Button-order-with-caption"
+        },
+        "DB080085-7EC1-415C-B496-99B43B755CF8" : {
+          "name" : "table\/item\/module-title"
+        },
+        "848A838B-4C3A-4C76-96E9-AAA9B7FD5CDF" : {
+          "name" : "Logo\/Product\/Module\/WiseInfluencer"
+        },
+        "8D9DD729-7B2D-4541-AD96-4A014A375030" : {
+          "name" : "Cursor\/Finger"
+        },
+        "A9A55535-1EBA-49CB-BCCF-05B37C6A3ED8" : {
+          "name" : "icon\/form\/checkbox-uncheck"
+        },
+        "135BCDB6-8E79-49AB-BFCE-BC59D1744A24" : {
+          "name" : "ModuleButton\/Trial-ver"
+        },
+        "F6661A57-650F-455E-A976-47A531E926A7" : {
+          "name" : "icon\/unlocked"
+        },
+        "D76A4BFF-FC46-42FD-9C73-BF16DFAB5721" : {
+          "name" : "Flow\/item-existing"
+        },
+        "3FD89DAF-5858-40AE-8F1B-04BFF27ABD20" : {
+          "name" : "ModuleButton\/Trial-hor-status-mobile"
+        },
+        "A9EACE8F-3067-4973-9567-E1EE0C68F60A" : {
+          "name" : "components\/nav\/nav-side-left-collapse"
+        },
+        "511ACBD8-146B-451B-9FBC-E8CB3F840FE9" : {
+          "name" : "color-palette\/yellow-1"
+        },
+        "7952AEF2-E03F-46F4-8758-718F148180D5" : {
+          "name" : "Module-icon\/WiseInfluencer"
+        },
+        "40A4222B-D354-4146-8C5B-D435EB9BEBCA" : {
+          "name" : "button\/package-tab"
+        },
+        "9CDA21D1-EDEE-4A8B-9503-A82A83F3656B" : {
+          "name" : "icon\/nav\/apps"
+        },
+        "217DB9EA-8F6A-42C3-8AAE-61AF4FD1184B" : {
+          "name" : "color-palette\/red-6"
+        },
+        "5C92FD8C-AC0D-4F9E-BA38-E42D475B363C" : {
+          "name" : "tab\/module-tab-collapse-purchased"
+        },
+        "4210EB67-4317-4359-AF88-A56B69A930AB" : {
+          "name" : "Logo\/Product\/Module\/alertCenter"
+        },
+        "88DC60D8-BE21-4ED5-9E92-24496B62F1C7" : {
+          "name" : "icon\/communication\/mail"
+        },
+        "8F2F5887-60B6-40FE-A5B2-80934C1332E3" : {
+          "name" : "color-palette\/graphA-01"
+        },
+        "60BBAC61-DE95-4E7B-8A8D-8A617965D037" : {
+          "name" : "color-palette\/cyan-8"
+        },
+        "DF70DA09-42AB-4EE8-A0F1-E528220B74F9" : {
+          "name" : "color-palette\/color-container\/circle"
+        },
+        "66886C27-0D3E-4197-84B1-733F24F10A49" : {
+          "name" : "color-palette\/green-1"
+        },
+        "1FAB7480-317E-4AAA-8321-D5EABF3A8A55" : {
+          "name" : "Line\/black\/Vertical Connection"
+        },
+        "03A3FC3F-A988-4810-B415-805CDB63651B" : {
+          "name" : "ModuleButton\/Trial-ver-hover"
+        },
+        "BE7D76C3-3025-4FC4-A0C3-0A271BA1F46F" : {
+          "name" : "button\/package-tab copy 3"
+        },
+        "53DE1AA9-A5F6-4929-8C12-DF872B8EBA68" : {
+          "name" : "button\/Button-medium"
+        },
+        "13B1C605-2924-4303-BF45-AFE11AA8C59C" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "C88CFD30-CC5E-4837-86D0-ACAE98E76552" : {
+          "name" : "3D\/text\/2"
+        },
+        "3CB190F5-5BA5-45E9-A2F4-8759AA6C2569" : {
+          "name" : "button\/Button-medium-with-icon"
+        },
+        "EAF96CA3-91EF-48C6-9F4F-68D8BF591E92" : {
+          "name" : "table\/item\/sub-module"
+        },
+        "1849EBAE-A504-4508-91E9-1483816702B6" : {
+          "name" : "icon\/power"
+        },
+        "72DA563C-401D-4FEC-AB28-2A1219B0F416" : {
+          "name" : "icon\/badges\/dot"
+        },
+        "BB6E4AC5-A696-4B77-8BE7-5AEBAF6F3084" : {
+          "name" : "icon\/media\/weibo"
+        },
+        "F1C96BB2-05F9-40FD-B6B1-FFB20FFF2501" : {
+          "name" : "color-palette\/grey\/grey-6"
+        },
+        "6610DDEB-26AC-46D2-9A38-90B7993D8D8B" : {
+          "name" : "components\/nav\/wisersOne-header"
+        },
+        "2398EB05-0DDE-4B7B-9A52-43C5E7A7ECFF" : {
+          "name" : "color-palette\/lime-9"
+        },
+        "58D7C974-36DD-4A96-8941-3B7DE56A79DD" : {
+          "name" : "color-palette\/pink-3"
+        },
+        "1EA3641D-0812-4D04-98C6-A2F88AD9385C" : {
+          "name" : "package\/HK\/Social\/overview"
+        },
+        "27F37282-A676-446B-BAB1-3FC20323E756" : {
+          "name" : "icon\/badge\/similarArticle"
+        },
+        "104EF1C6-0070-46DD-B204-5460EE6B4672" : {
+          "name" : "Module-icon\/intelligence"
+        },
+        "42F2D3B4-2771-4ABB-BB3C-0ADC30B13BDD" : {
+          "name" : "package\/HK\/WiseSearch\/overview"
+        },
+        "902D5D52-90AD-4C8C-BEC9-ADF560A79783" : {
+          "name" : "color-palette\/orange-5"
+        },
+        "56E6E97D-7E57-4376-814C-CB5AF1A05993" : {
+          "name" : "color-palette\/red-2"
+        },
+        "BF5BBF32-8A78-446E-A20B-E7D4FEDB65D9" : {
+          "name" : "ModuleButton\/Trial-ver-hover-no-blue"
+        },
+        "DC41FCF0-6D93-4E77-999F-37E43F42D3CE" : {
+          "name" : "panel\/top-header-mobile"
+        },
+        "8DECD39D-1EEA-4B31-AF7E-87DBB954A0EE" : {
+          "name" : "icon\/close"
+        },
+        "A198601C-EF6A-47A0-91F4-E188A3BBB87A" : {
+          "name" : "icon\/arrow\/down\/circle"
+        },
+        "2779B779-EC9E-462F-8D14-D0171B50A30E" : {
+          "name" : "panel\/left-report"
+        },
+        "BD55A1A1-1C44-4D00-94DF-F1C10FB305EB" : {
+          "name" : "color-palette\/violet\/violet-7"
+        },
+        "4794C0CD-658D-468C-ADF2-CD55D8FF632C" : {
+          "name" : "color-palette\/cyan\/cyan-6"
+        },
+        "6D89A46B-2C6C-4568-93FA-58366289A2A3" : {
+          "name" : "icon\/arrow\/up\/circle"
+        },
+        "02EEE9C9-0980-48B6-88D0-53FDDEAFAB26" : {
+          "name" : "color-palette\/cyan-4"
+        },
+        "A28E88EB-4FCE-463F-A816-066B0C715CD4" : {
+          "name" : "toggle\/checkbox-outline"
+        },
+        "69FCCAB4-2A59-4ED2-AE15-57D2A5726932" : {
+          "name" : "icon\/search"
+        },
+        "7C0373AD-C5EC-4A89-9F9B-DE223B9FD3DC" : {
+          "name" : "icon\/action\/user"
+        },
+        "E2522CCC-9F0A-4630-9B5D-E22F6C27E4EF" : {
+          "name" : "color-palette\/yellow-6"
+        },
+        "EEFCDC63-4E72-45F1-BDC7-90ADDE078F49" : {
+          "name" : "icon\/nav\/dismiss"
+        },
+        "7A7BC2FE-70E9-4BAA-B112-2DCE8FE24479" : {
+          "name" : "color-palette\/teal-2"
+        },
+        "5A0E9202-34ED-43B2-9AA3-F73751D1E331" : {
+          "name" : "color-palette\/indigo-7"
+        },
+        "CF39E3A5-B95E-4431-87EB-9C901ED3659C" : {
+          "name" : "text-2"
+        },
+        "94524F1B-05B3-4318-BD34-DE67710C011A" : {
+          "name" : "ModuleButton\/Standard"
+        },
+        "467D4A11-13D4-4C39-9ECA-B80644828C2B" : {
+          "name" : "color-palette\/red-9"
+        },
+        "7E4D250C-955C-4F9F-A20F-80C9C9EB4E16" : {
+          "name" : "color-palette\/yellow-4"
+        },
+        "D7844F01-6E52-48A9-9B90-D8AF23907998" : {
+          "name" : "color-palette\/indigo-6"
+        },
+        "8ADDFF2B-F25B-4DC5-94FA-A0A2501DE767" : {
+          "name" : "color-palette\/blue-2"
+        },
+        "A8DEA148-CCFB-4552-9953-89C72D9FC0B8" : {
+          "name" : "ModuleButton\/Standard-hor"
+        },
+        "1069D1C6-F618-4747-ADC8-BBEE9354C5BB" : {
+          "name" : "color-palette\/white"
+        },
+        "9055A769-17AF-4665-AF51-3C336BFCC8DA" : {
+          "name" : "color-palette\/indigo-1"
+        },
+        "657576C8-8DB5-4222-B46A-0F9E4B4F9320" : {
+          "name" : "icon\/list"
+        },
+        "D4336039-93E8-4CD9-BDB2-5BAF827F77AC" : {
+          "name" : "icon\/arrow\/left\/standard"
+        },
+        "5BE8FA47-D9FF-4E92-BCB7-948FB31310BD" : {
+          "name" : "icon\/media\/instagram"
+        },
+        "F6EF2C22-A95B-4263-89DA-CB124554F618" : {
+          "name" : "color-palette\/orange-2"
+        },
+        "C29613A8-F028-4C03-898F-6EAB2C7234CA" : {
+          "name" : "icon\/archive"
+        },
+        "5A1D3A8A-D72B-4C13-A951-41306148F212" : {
+          "name" : "icon\/history"
+        },
+        "778F1066-813F-43F4-9C16-DE2C8DF70EA8" : {
+          "name" : "button\/standard"
+        },
+        "23D99B0C-A3C0-4E24-B138-A603909A060A" : {
+          "name" : "color-palette\/lime-8"
+        },
+        "8D74EE17-DA08-48AC-9017-4A5992912830" : {
+          "name" : "icon\/badge\/VIP"
+        },
+        "886C78E5-122C-45F9-8F10-4A7565CE356B" : {
+          "name" : "icon\/legend"
+        },
+        "6680BF0C-8D35-419E-BAAB-48C99FF9D9FF" : {
+          "name" : "color-palette\/cyan\/cyan-6"
+        },
+        "CAC6CC08-7DF2-4E38-9C44-29F447F55CD6" : {
+          "name" : "sentiment\/line\/negative"
+        },
+        "AF045057-FDC5-433D-A2E3-AC39164A7AFA" : {
+          "name" : "color-palette\/green-8"
+        },
+        "F1B08DE1-803A-40D9-A474-843213EDC5E0" : {
+          "name" : "color-palette\/green-7"
+        },
+        "C4DBB078-ED83-469B-9F93-C1C1A8A8E4B5" : {
+          "name" : "components\/report"
+        },
+        "F497C234-21B7-4F50-8568-5AEF090230E3" : {
+          "name" : "Module-icon\/WiseSoical"
+        },
+        "9241FF2E-7862-404B-BBB9-D6BD50EE9CFF" : {
+          "name" : "icon\/globe"
+        },
+        "368AA4F8-9D9F-426A-BE84-ADC3BD64FAE4" : {
+          "name" : "Logo\/Product\/Module\/WiseSoical"
+        },
+        "DF5A17DF-7A2C-4722-80A0-CA5A8DE1B107" : {
+          "name" : "celebrate\/paper-4"
+        },
+        "A98DC158-F201-47B7-BA82-1BB8ABBA7269" : {
+          "name" : "icon\/nav\/apps"
+        },
+        "2FDBF5F1-37D3-472D-8E58-337A25377C72" : {
+          "name" : "sentiment\/icon\/negative"
+        },
+        "B05000A1-6951-48B0-9E43-65953076A73F" : {
+          "name" : "icon\/image"
+        },
+        "5A9E0463-8B12-4A74-802A-AC5305F8989D" : {
+          "name" : "Line \/ Blue 2px"
+        },
+        "7272234B-B10E-4983-8C83-01EF3F9C1D9B" : {
+          "name" : "color-palette\/red-7"
+        },
+        "1B08C131-F5D9-44F5-B90C-875409D5226F" : {
+          "name" : "color-palette\/cyan-2"
+        },
+        "2CAD3B68-D741-441C-A633-16ED816F0661" : {
+          "name" : "color-palette\/red-5"
+        },
+        "0637EA46-D335-4159-956F-59EF08251E7E" : {
+          "name" : "color-palette\/indigo-9"
+        },
+        "41894CEA-108A-4BA3-86CC-BBF80EA0A096" : {
+          "name" : "color-palette\/cyan-5"
+        },
+        "3ED57A77-393F-4CA7-B0EC-FC79F74BD812" : {
+          "name" : "section\/title"
+        },
+        "69757874-4F7A-4637-855C-B271CAD1FE05" : {
+          "name" : "package\/Social\/overview"
+        },
+        "618FEE9D-AC1E-4C2F-86B0-0AEDD471DB6F" : {
+          "name" : "icon\/arrow\/right\/standard"
+        },
+        "543B302E-1FA9-47F5-8D39-0E83FD89925B" : {
+          "name" : "icon\/locked"
+        },
+        "6A9982CD-EE85-4F39-8BC6-EB61BEF7385F" : {
+          "name" : "Line\/black\/Curved Connection 1"
+        },
+        "0E0A50DF-69B1-4652-8CE7-0DDB467FF319" : {
+          "name" : "color-palette\/orange-8"
+        },
+        "25A9935B-D16F-449D-BF52-A53F9D9FDB84" : {
+          "name" : "tooltips\/guide"
+        },
+        "5B8F771D-1D03-403E-8EAA-411610C8FD13" : {
+          "name" : "icon\/view\/card-view"
+        },
+        "CB681C46-B600-4BB8-A282-D3DC2FF4C78D" : {
+          "name" : "icon\/uncheck-circle Copy 1"
+        },
+        "24C79D59-CA4A-46DF-AAAE-C1CE1EAA2D93" : {
+          "name" : "chart\/overview_01_1"
+        },
+        "60211B87-5A82-4251-AC02-8D8FEE22E046" : {
+          "name" : "color-palette\/grey-8"
+        },
+        "EF476E8F-3448-4A34-B150-B899CFD5186C" : {
+          "name" : "color-palette\/yellow-5"
+        },
+        "A2CAD510-5095-45CD-B8DF-DDEE273FD9DF" : {
+          "name" : "color-palette\/violet-4"
+        },
+        "03273587-948F-4465-868F-04F224432BD1" : {
+          "name" : "ModuleButton\/Trial-hor"
+        },
+        "2510DF06-21A0-4D0C-B5EC-DE7A5079B6CA" : {
+          "name" : "color-palette\/orange-6"
+        },
+        "15F567FF-C92E-4D89-ABA1-DC8D28F3BCEF" : {
+          "name" : "color-palette\/green-9"
+        },
+        "70920A75-F800-4FD5-9CFD-B16EBBA3AA1B" : {
+          "name" : "color-palette\/teal-9"
+        },
+        "5F99F838-4826-4518-A8C9-318C9E7D0448" : {
+          "name" : "color-palette\/grey-2"
+        },
+        "0CD80EFF-EC36-4904-BD48-D6FD22A137C0" : {
+          "name" : "color-palette\/blue-9"
+        },
+        "99D34649-3614-42B2-8D98-7974EE382FC2" : {
+          "name" : "article\/card\/sns-default"
+        },
+        "E8E5C2C9-2DFC-46DA-B881-7B18291F0DBC" : {
+          "name" : "icon\/arrow\/up\/standard"
+        },
+        "D6F5CD01-9C3A-43AD-9906-C5571E5C2DC5" : {
+          "name" : "color-palette\/indigo\/indigo-5"
+        },
+        "D591A6F0-66F3-49F6-8982-31865761D407" : {
+          "name" : "color-palette\/graphA-03"
+        },
+        "74D420FA-35DF-4B75-B2FA-661719B75161" : {
+          "name" : "icon\/uncheck-circle"
+        },
+        "62665A7D-7973-4F9F-99B5-4E781C65AD3C" : {
+          "name" : "color-palette\/green-3"
+        },
+        "F45B83FB-C396-4608-A013-693AB586E991" : {
+          "name" : "icon\/form\/checkbox-checked"
+        },
+        "28E08440-9F89-4EDF-B7A3-F07D7E721A74" : {
+          "name" : "color-palette\/grey\/grey-9"
+        },
+        "B6BDD169-B3E7-414F-BD3B-A80D3D803265" : {
+          "name" : "icon\/phone"
+        },
+        "9CFEC539-ED50-482E-81F0-0BF9A52243F7" : {
+          "name" : "color-palette\/red-4"
+        },
+        "2C5E2217-5B95-4D57-96FA-ED0A9D62C2DB" : {
+          "name" : "sentiment\/icon\/positive"
+        },
+        "48D2EE75-241E-4A91-8A2E-2AB792C37182" : {
+          "name" : "color-palette\/green-5"
+        },
+        "A20184C3-FBD8-457E-A9CA-FFFB7DF76F9C" : {
+          "name" : "color-palette\/orange-7"
+        },
+        "A0C1A1E6-8CF8-427B-AC37-B3822BD1EAC6" : {
+          "name" : "icon\/menu-ham"
+        },
+        "C06F4DDB-749A-464E-9933-202F2F67EFFE" : {
+          "name" : "icon\/badge\/recommend"
+        },
+        "268D656D-B696-4CF4-ACBC-71403B44813F" : {
+          "name" : "color-palette\/pink-4"
+        },
+        "4548A865-7F84-46FE-BE2D-65BE0DEDB6A6" : {
+          "name" : "color-palette\/bg"
+        },
+        "D8FFDFA7-58AD-4EE7-9512-CC3319FDC8A5" : {
+          "name" : "icon\/feature\/download"
+        },
+        "46E7E514-D238-4215-AB63-2908F78884DA" : {
+          "name" : "icon\/module-status"
+        },
+        "462F7F22-8240-4C72-9185-D1C6C4AE687E" : {
+          "name" : "ModuleButton\/Trial-processing"
+        },
+        "A58919BE-F4B0-4492-9602-177DAD0C634B" : {
+          "name" : "Module-icon\/z"
+        },
+        "DE286F90-CAC0-4BEF-80A2-9489774446E0" : {
+          "name" : "color-palette\/green-4"
+        },
+        "F9AFA574-BF99-4126-B47A-1FEEB35FD896" : {
+          "name" : "color-palette\/lime-5"
+        }
+      }
+    }
+  }
+}
